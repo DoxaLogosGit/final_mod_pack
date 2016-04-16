@@ -1,0 +1,2188 @@
+﻿extraSprites:
+  - type: TEXTURE.DAT
+    files:
+      11: Resources/FinalModPack/TerrainPack/Geoscape/TEXTURE15.GIF
+      24: Resources/FinalModPack/TerrainPack/Geoscape/TEXTURE36.GIF
+      37: Resources/FinalModPack/TerrainPack/Geoscape/TEXTURE57.GIF
+  - type: Projectiles
+    height: 3
+    width: 65
+    subX: 3
+    subY: 3
+    files:
+      385: Resources/FinalModPack/Weapons_Compilation/LightMachinegun/BulletSprite2.png
+      420: Resources/FinalModPack/Weapons_Compilation/Magnum/BulletSprite.png
+      455: Resources/FinalModPack/Weapons_Compilation/Taser/BulletSprite.gif
+      490: Resources/FinalModPack/Weapons_Compilation/SniperRifle/BulletSprite.png
+      525: Resources/FinalModPack/AlienArmouryExpanded/Bullets/toxic_bullet.gif
+      560: Resources/FinalModPack/Races_Compilation/CerebrealRace/BulletSprite.gif
+      595: Resources/FinalModPack/Weapons_Compilation/Submachinegun/BulletSprite.png
+      630: Resources/FinalModPack/GaussWeaponry/RailBulletSprite.png
+      665: Resources/FinalModPack/GaussWeaponry/GaussBulletSprite.png
+      700: Resources/FinalModPack/AlienArmouryExpanded/Bullets/bluelaser.gif
+      735: Resources/FinalModPack/AlienArmouryExpanded/Bullets/blueheavylaser.gif
+  - type: BIGOBS.PCK
+    files:
+      44: Resources/FinalModPack/GravArmors/PowerArmor/BigCorpse.png
+      57: Resources/FinalModPack/Weapons_Compilation/SniperRifle/bigobs_57_0.gif
+      58: Resources/FinalModPack/Weapons_Compilation/SniperRifle/bigobs_58_0.gif
+      59: Resources/FinalModPack/Weapons_Compilation/HMG/HMG_Clip.gif
+      60: Resources/FinalModPack/Weapons_Compilation/GrenadeLauncher/BigGrenadeLanucher.gif
+      61: Resources/FinalModPack/Weapons_Compilation/GrenadeLauncher/BigLauncherFrag.gif
+      62: Resources/FinalModPack/Weapons_Compilation/GrenadeLauncher/BigLauncherInc.gif
+      63: Resources/FinalModPack/Weapons_Compilation/GrenadeLauncher/BigLauncherSmoke.gif
+      64: Resources/FinalModPack/Medipack/BigMedipack.gif
+      65: Resources/FinalModPack/GaussWeaponry/GaussSniperClip.gif
+      66: Resources/FinalModPack/GaussWeaponry/GaussRifleClip.gif
+      67: Resources/FinalModPack/GaussWeaponry/GaussPistolClip.gif
+      68: Resources/FinalModPack/GaussWeaponry/HeavyGaussClip.gif
+      69: Resources/FinalModPack/GaussWeaponry/GaussSniper.gif
+      70: Resources/FinalModPack/GaussWeaponry/GaussRifle.gif
+      71: Resources/FinalModPack/GaussWeaponry/GaussPistol.gif
+      72: Resources/FinalModPack/GaussWeaponry/HeavyGauss.gif
+      73: Resources/FinalModPack/AlloyAmmo/AC_AA_Clip.gif
+      74: Resources/FinalModPack/AlloyAmmo/HC_AA_Clip.gif
+      75: Resources/FinalModPack/AlloyAmmo/HMG_AA_Clip.gif
+      76: Resources/FinalModPack/AlloyAmmo/LMG_AA_Clip.gif
+      77: Resources/FinalModPack/AlloyAmmo/Magnum_AA_Ammo.gif
+      78: Resources/FinalModPack/AlloyAmmo/Minigun_AA_Ammo.gif
+      79: Resources/FinalModPack/AlloyAmmo/Minigun_AA_Ammo_light.gif
+      80: Resources/FinalModPack/AlloyAmmo/Rifle_AA_Clip.gif
+      81: Resources/FinalModPack/AlloyAmmo/Shotgun_AA_Shells_AP.gif
+      82: Resources/FinalModPack/AlloyAmmo/SMG_AA_Clip.gif
+      83: Resources/FinalModPack/AlloyAmmo/Sniper_AA_Clip.gif
+      84: Resources/FinalModPack/AlloyAmmo/Pistol_AA_Clip.gif
+      85: Resources/FinalModPack/Weapons_Compilation/MediGas/Gasgrenade.png
+      86: Resources/FinalModPack/Weapons_Compilation/DartRifle/DartRifle.gif
+      87: Resources/FinalModPack/Weapons_Compilation/DartRifle/DartRifleClipA.gif
+      88: Resources/FinalModPack/Weapons_Compilation/DartRifle/DartRifleClipB.gif
+      89: Resources/FinalModPack/Weapons_Compilation/DartRifle/DartRifleClipC.gif
+      90: Resources/FinalModPack/Tanks_Compilation/Scoutdrone/Scoutdrone_pop.gif
+      91: Resources/FinalModPack/Tanks_Compilation/Minigun/Minigun_turret.gif
+      92: Resources/FinalModPack/Tanks_Compilation/Gauss/Gauss_turret.gif
+      93: Resources/FinalModPack/Tanks_Compilation/Gauss/Gauss_hover_turret.gif
+      94: Resources/FinalModPack/Races_Compilation/GazerRace/bigobs_HOLODRONE_CORPSE.gif
+      95: Resources/FinalModPack/Races_Compilation/WaspiteRace/bigobs_WASPITE_CORPSE.gif
+      96: Resources/FinalModPack/Races_Compilation/WaspiteRace/bigobs_CYBERMITE_CORPSE.gif
+      97: Resources/FinalModPack/Races_Compilation/ReptoidRace/bigobs_REPTOID_CORPSE.gif
+      98: Resources/FinalModPack/Races_Compilation/ChtoniteRace/bigobs_CHTONITE_CORPSE.gif
+      100: Resources/FinalModPack/Weapons_Compilation/Magnum/Magnum.gif
+      101: Resources/FinalModPack/Weapons_Compilation/Magnum/MagnumDrum.gif
+      102: Resources/FinalModPack/Weapons_Compilation/Submachinegun/SMG3.gif
+      103: Resources/FinalModPack/Weapons_Compilation/Submachinegun/SMG_Clip.gif
+      104: Resources/FinalModPack/Alt_aliens/Muton_Commander/mutcom_corpse_BO.gif
+      105: Resources/FinalModPack/Weapons_Compilation/Minigun/Minigun.gif
+      106: Resources/FinalModPack/Weapons_Compilation/Minigun/Minigun_Ammo.gif
+      107: Resources/FinalModPack/Weapons_Compilation/Minigun/Minigun_light.gif
+      108: Resources/FinalModPack/Weapons_Compilation/Minigun/Minigun_Ammo_light.gif
+      109: Resources/FinalModPack/Weapons_Compilation/Minigun/Scatter_Laser.gif
+      110: Resources/FinalModPack/Weapons_Compilation/MindMissile/MindMissile.gif
+      111: Resources/FinalModPack/Weapons_Compilation/LightMachinegun/LMG.gif
+      112: Resources/FinalModPack/Weapons_Compilation/LightMachinegun/Clip.gif
+      113: Resources/FinalModPack/Weapons_Compilation/Taser/Taser.gif
+      114: Resources/FinalModPack/Weapons_Compilation/Taser/Taser_Clip.gif
+      115: Resources/FinalModPack/Weapons_Compilation/CombatKnife/BigCombatKnife.gif
+      116: Resources/FinalModPack/Races_Compilation/GazerRace/bigobs_GAZER_CORPSE.gif
+      117: Resources/FinalModPack/AlienArmouryExpanded/Aliensniperrifle.gif
+      118: Resources/FinalModPack/AlienArmouryExpanded/Aliensniperrifle_Clip.gif
+      119: Resources/FinalModPack/AlienArmouryExpanded/Plasmadestroyer.gif
+      120: Resources/FinalModPack/AlienArmouryExpanded/Plasmadestroyer_Clip.gif
+      121: Resources/FinalModPack/AlienArmouryExpanded/Plasmacaster.gif
+      122: Resources/FinalModPack/AlienArmouryExpanded/Plasmacaster_clip.gif
+      123: Resources/FinalModPack/AlienArmouryExpanded/Toxigun.gif
+      124: Resources/FinalModPack/AlienArmouryExpanded/Toxigun_flask.gif
+      125: Resources/FinalModPack/Misc_Items_Compilation/AlienDataSlate.gif
+      126: Resources/FinalModPack/Races_Compilation/CerebrealRace/bigobs_CEREBREAL_CORPSE.gif
+      127: Resources/FinalModPack/Races_Compilation/CerebrealRace/bigobs_CEREBREAL_LARVA_CORPSE.gif
+      128: Resources/FinalModPack/GravArmors/FlyingArmor/BigCorpse.png
+      129: Resources/FinalModPack/GravArmors/JumpArmor/Jump_Corpse.png
+      130: Resources/FinalModPack/GravArmors/GravModule/CorpseGravModule.png
+      131: Resources/FinalModPack/XComCyberdisc/Cyberdisc_weapon.gif
+      132: Resources/FinalModPack/Armors_Compilation/HazmatArmor/HazmatArmor_corpse.gif
+      133: Resources/FinalModPack/Weapons_Compilation/SLauncher_EleriumBomb/big_SL_EleriumBomb.gif
+      134: Resources/FinalModPack/Weapons_Compilation/Shotgun/Shotgun.gif
+      135: Resources/FinalModPack/Weapons_Compilation/Shotgun/Shotgun_Shells.gif
+      136: Resources/FinalModPack/Weapons_Compilation/Shotgun/Shotgun_Shells_1.gif
+      137: Resources/FinalModPack/Weapons_Compilation/EMace/bigob_emace.gif
+      138: Resources/FinalModPack/FusionTorch/BigFusionTorch.gif
+      139: Resources/FinalModPack/FusionTorch/BigFusionTorchPower.gif
+      140: Resources/FinalModPack/Weapons_Compilation/Flamethrower/Flamethrower.gif
+      141: Resources/FinalModPack/Weapons_Compilation/Flamethrower/Flamethrower_Clip.gif
+      142: Resources/FinalModPack/men_in_black/bigobs_MIB0_CORPSE.gif
+      143: Resources/FinalModPack/men_in_black/bigobs_MIB1_CORPSE.gif
+      144: Resources/FinalModPack/men_in_black/bigobs_MIB2_CORPSE.gif
+      145: Resources/FinalModPack/men_in_black/bigobs_MIB3_CORPSE.gif
+      146: Resources/FinalModPack/LaserWeaponry/Laser_Pistol_Clip.gif
+      147: Resources/FinalModPack/LaserWeaponry/Laser_Rifle_Clip.gif
+      148: Resources/FinalModPack/LaserWeaponry/Laser_Heavy_Clip.gif
+      149: Resources/FinalModPack/LaserWeaponry/Laser_Pistol_MiB.gif
+      150: Resources/FinalModPack/LaserWeaponry/Laser_Rifle_MiB.gif
+      151: Resources/FinalModPack/LaserWeaponry/Heavy_Laser_MiB.gif
+      155: Resources/FinalModPack/Weapons_Compilation/HMG/HMG.gif
+      156: Resources/FinalModPack/Weapons_Compilation/StunGrenade/StunGrenade.gif
+      157: Resources/FinalModPack/Weapons_Compilation/LaserSniper/LaserSniper.gif
+      158: Resources/FinalModPack/Races_Compilation/AnthropodRace/bigobs_ANTHROPOD_CORPSE.gif
+      159: Resources/FinalModPack/Races_Compilation/AnthropodRace/bigobs_SPITTER_CORPSE.gif
+      160: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_UZI.gif
+      161: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_UZI_CLIP.gif
+      162: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_AK47.gif
+      163: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_AK47_CLIP.gif
+      164: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_DYNAMITE.gif
+      165: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_SNUBNOSE.gif
+      166: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_SNUBNOSE_LOADER.gif
+      167: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_PUMP_ACTION_SHOTGUN.gif
+      168: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_PUMP_ACTION_SHOTGUN_SHELLS.gif
+      169: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_HUNTING_RIFLE.gif
+      170: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_HUNTING_RIFLE_AMMO.gif
+      171: Resources/FinalModPack/Races_Compilation/HybridRace/bigobs_HYBRID_CORPSE.gif
+      172: Resources/FinalModPack/Races_Compilation/HybridRace/bigobs_DRONE_CORPSE.gif
+      173: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_RPG.gif
+      174: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_RPG_ROUND.gif
+      175: Resources/FinalModPack/Armors_Compilation/Armored_Vest/bigobs_ARMORED_VEST_CORPSE.gif
+      176: Resources/FinalModPack/Tanks_Compilation/Scoutdrone/bigobs_SCOUTDRONE_CORPSE.gif
+      177: Resources/FinalModPack/Weapons_Compilation/AlloySword/bigobs_ALLOY_SWORD.gif
+      178: Resources/FinalModPack/Weapons_Compilation/LaserShotgun/bigobs_LaserShotgun.gif
+      179: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/bigobs_ALLOY_VEST_CORPSE.gif
+      180: Resources/FinalModPack/Weapons_Compilation/AlloySword/BigAlloyKnife_Salo.gif
+      181: Resources/FinalModPack/Doge/Doge_Jaws.gif
+      182: Resources/FinalModPack/Doge/DOGE_b.gif
+      183: Resources/FinalModPack/Alt_aliens/Floater_Commander/bigob_Flottant_Bleu.gif
+      184: Resources/FinalModPack/Misc_Items_Compilation/bigob_AlienElectronics.gif
+      185: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/bigobs_MACHETE.gif
+      188: Resources/FinalModPack/Alt_aliens/Sectoid_Guardian/bigob_Mechtoid.gif
+      189: Resources/FinalModPack/Alt_aliens/Muton_Engineer/bigob_MutEng.gif
+      190: Resources/FinalModPack/Alt_aliens/Muton_Leader/bigob_MutLeader.gif
+      191: Resources/FinalModPack/Alt_aliens/Muton_Medic/bigob_MutMed.gif
+      192: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/bigob_Stormtrooper.gif
+      193: Resources/FinalModPack/Weapons_Compilation/HeavySniperRifle/HSR.gif
+      194: Resources/FinalModPack/Weapons_Compilation/HeavySniperRifle/HSR_AP_Clip.gif
+      195: Resources/FinalModPack/Weapons_Compilation/HeavySniperRifle/HSR_HE_Clip.gif
+      196: Resources/FinalModPack/Weapons_Compilation/HeavySniperRifle/HSR_AA_Clip.gif
+      198: Resources/FinalModPack/Weapons_Compilation/AdvancedLauncher/AdvLauncher.gif
+      199: Resources/FinalModPack/Weapons_Compilation/AdvancedLauncher/EleriumRocket.gif
+      200: Resources/FinalModPack/Weapons_Compilation/Landmine/Landmine.gif
+      201: Resources/FinalModPack/Weapons_Compilation/MultiLauncher/bigob_MultiLauncher_orange.gif
+      202: Resources/FinalModPack/Weapons_Compilation/MultiLauncher/bigob_RocketPack.gif
+      203: Resources/FinalModPack/Races_Compilation/ReptoidRace/Salamandron_Jaws.gif
+      204: Resources/FinalModPack/Races_Compilation/WaspiteRace/bigobs_WASPITE_RED_CORPSE.gif
+      205: Resources/FinalModPack/Races_Compilation/WaspiteRace/bigobs_WASPITE_BROWN_CORPSE.gif
+      206: Resources/FinalModPack/Races_Compilation/WaspiteRace/bigobs_WASPITE_PURPLE_CORPSE.gif
+      207: Resources/FinalModPack/Races_Compilation/WaspiteRace/bigobs_WASPITE_WHITE_CORPSE.gif
+      208: Resources/FinalModPack/Weapons_Compilation/AssaultRifle/AssaultRifle.gif
+      209: Resources/FinalModPack/men_in_black/bigobs_MIB4_CORPSE.gif
+      210: Resources/FinalModPack/men_in_black/bigobs_MIB5_CORPSE.gif
+      211: Resources/FinalModPack/XComCyberdisc/Cyberdisc_weapon_laser.gif
+      212: Resources/FinalModPack/GaussWeaponry/RailSniper.gif
+      213: Resources/FinalModPack/GaussWeaponry/RailRifle.gif
+      214: Resources/FinalModPack/GaussWeaponry/RailPistol.gif
+      215: Resources/FinalModPack/GaussWeaponry/HeavyRailgun.gif
+      216: Resources/FinalModPack/GaussWeaponry/RailSniperClip.gif
+      217: Resources/FinalModPack/GaussWeaponry/RailRifleClip.gif
+      218: Resources/FinalModPack/GaussWeaponry/RailPistolClip.gif
+      219: Resources/FinalModPack/GaussWeaponry/HeavyRailgunClip.gif
+      220: Resources/FinalModPack/Armors_Compilation/Synthsuit/bigob_Synthsuit.gif
+      221: Resources/FinalModPack/AlienArmouryExpanded/Alienlaserrifle.gif
+      222: Resources/FinalModPack/AlienArmouryExpanded/Alienlaserrifle_Clip.gif
+      223: Resources/FinalModPack/CiviliansPack/BIGOB_MALE_CIVILIAN2_CORPSE.gif
+      224: Resources/FinalModPack/CiviliansPack/BIGOB_MALE_CIVILIAN3_CORPSE.gif
+      225: Resources/FinalModPack/CiviliansPack/BIGOB_MALE_CIVILIAN4_CORPSE.gif
+      226: Resources/FinalModPack/CiviliansPack/BIGOB_MALE_CIVILIAN5_CORPSE.gif
+      227: Resources/FinalModPack/CiviliansPack/BIGOB_MALE_CIVILIAN6_CORPSE.gif
+      228: Resources/FinalModPack/CiviliansPack/BIGOB_FEMALE_CIVILIAN2_CORPSE.gif
+      229: Resources/FinalModPack/CiviliansPack/BIGOB_FEMALE_CIVILIAN3_CORPSE.gif
+      230: Resources/FinalModPack/CiviliansPack/BIGOB_MALE_CIVILIAN7_CORPSE.gif
+      231: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/Holdout_Pistol.gif
+      232: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/Holdout_Pistol_Clip.gif
+      233: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/bigobs_JUGGERNAUT_SUIT_CORPSE.gif
+      234: Resources/FinalModPack/Armors_Compilation/ToxiSuit/bigob_ToxiSuit.gif
+      235: Resources/FinalModPack/AlienArmourySpecial/bigob_ConcussionCannon.gif
+      236: Resources/FinalModPack/AlienArmourySpecial/bigob_FireLauncher.gif
+      237: Resources/FinalModPack/AlienArmourySpecial/bigob_Multilauncher.gif
+      238: Resources/FinalModPack/AlienArmourySpecial/bigob_MultiBomb.gif
+      239: Resources/FinalModPack/AlienArmourySpecial/bigob_PhotonBlade.gif
+      240: Resources/FinalModPack/AlienArmourySpecial/bigob_Whip.gif
+      241: Resources/FinalModPack/AlloyAmmo/Shotgun_AA_Shells.gif
+      242: Resources/FinalModPack/Alt_aliens/Floater_Engineer/bigob_FloaterEngineer.gif
+      243: Resources/FinalModPack/Alt_aliens/Floater_Leader/bigob_FloaterLeader.gif
+      244: Resources/FinalModPack/Alt_aliens/Floater_Medic/bigob_FloaterMedic.gif
+      245: Resources/FinalModPack/Alt_aliens/Floater_Navigator/bigob_FloaterNavigator.gif
+      246: Resources/FinalModPack/Races_Compilation/WhiteEtherealRace/bigobs_ETHEREAL_WHITE.gif
+      247: Resources/FinalModPack/Weapons_Compilation/GrenadeLauncher/BigLauncherElerium.gif
+      248: Resources/FinalModPack/Weapons_Compilation/PlasmaBlades/PlasmaBlade.gif
+      249: Resources/FinalModPack/Weapons_Compilation/PlasmaBlades/PlasmaSword.gif
+      250: Resources/FinalModPack/Misc_Items_Compilation/bigob_Heal.gif
+      251: Resources/FinalModPack/Misc_Items_Compilation/bigob_Pain.gif
+      252: Resources/FinalModPack/Misc_Items_Compilation/bigob_Stim.gif
+  - type: FLOOROB.PCK
+    files:
+      41: Resources/FinalModPack/GravArmors/PowerArmor/FloorCorpse.png
+      73: Resources/FinalModPack/Weapons_Compilation/CombatKnife/FloorCombatKnife.gif
+      74: Resources/FinalModPack/Weapons_Compilation/GrenadeLauncher/FloorGrenadeLauncher.gif
+      75: Resources/FinalModPack/Weapons_Compilation/Shotgun/FloorShotgunShells.gif
+      76: Resources/FinalModPack/Weapons_Compilation/SniperRifle/floorob_76_0.gif
+      77: Resources/FinalModPack/Weapons_Compilation/SniperRifle/floorob_77_0.gif
+      78: Resources/FinalModPack/Weapons_Compilation/Flamethrower/FloorFlamethrower.gif
+      79: Resources/FinalModPack/Weapons_Compilation/Flamethrower/FloorFlamethrowerClip.gif
+      80: Resources/FinalModPack/Weapons_Compilation/HMG/FloorHMGAmmo.gif
+      81: Resources/FinalModPack/Weapons_Compilation/Shotgun/floorShotgun.gif
+      82: Resources/FinalModPack/Weapons_Compilation/Magnum/floorob_magnum.gif
+      83: Resources/FinalModPack/Weapons_Compilation/Taser/floorob_taser.gif
+      84: Resources/FinalModPack/Weapons_Compilation/Submachinegun/floorob_SMG.gif
+      85: Resources/FinalModPack/Weapons_Compilation/Magnum/floorob_MagnumDrum.gif
+      86: Resources/FinalModPack/Weapons_Compilation/Minigun/floorob_Minigun.gif
+      87: Resources/FinalModPack/Weapons_Compilation/Submachinegun/floorob_Clip.gif
+      88: Resources/FinalModPack/Weapons_Compilation/Minigun/floorob_Ammo.gif
+      89: Resources/FinalModPack/Weapons_Compilation/HMG/FloorHMG.gif
+      90: Resources/FinalModPack/Weapons_Compilation/Minigun/floorob_Ammo_light.gif
+      91: Resources/FinalModPack/Weapons_Compilation/Taser/floorob_ammo.gif
+      92: Resources/FinalModPack/Weapons_Compilation/Minigun/floorob_Minigun_Light.gif
+      93: Resources/FinalModPack/Weapons_Compilation/Minigun/Floorob_Scatter_Laser.gif
+      94: Resources/FinalModPack/Weapons_Compilation/LightMachinegun/floorob_LMG.gif
+      95: Resources/FinalModPack/Weapons_Compilation/LightMachinegun/floorob_Ammo.gif
+      96: Resources/FinalModPack/Medipack/FloorMedipack.gif
+      97: Resources/FinalModPack/GaussWeaponry/floorob_GaussSniper.gif
+      98: Resources/FinalModPack/GaussWeaponry/floorob_GaussRifle.gif
+      99: Resources/FinalModPack/GaussWeaponry/floorob_GaussPistol.gif
+      100: Resources/FinalModPack/GaussWeaponry/floorob_HeavyGauss.gif
+      101: Resources/FinalModPack/GaussWeaponry/floorob_GaussClip.gif
+      102: Resources/FinalModPack/GaussWeaponry/floorob_HeavyGaussClip.gif
+      103: Resources/FinalModPack/Weapons_Compilation/StunGrenade/floorob_StunGrenade.gif
+      104: Resources/FinalModPack/Weapons_Compilation/DartRifle/floorob_DartRifle.gif
+      105: Resources/FinalModPack/Weapons_Compilation/DartRifle/floorob_DartRifleClip.gif
+      106: Resources/FinalModPack/Weapons_Compilation/EMace/floorob_emace.gif
+      107: Resources/FinalModPack/FusionTorch/FloorFusionTorch.gif
+      108: Resources/FinalModPack/FusionTorch/FloorFusionTorchPower.gif
+      109: Resources/FinalModPack/AlienArmouryExpanded/floorob_Toxigun.gif
+      110: Resources/FinalModPack/AlienArmouryExpanded/floorob_Toxigun_flask.gif
+      111: Resources/FinalModPack/AlienArmouryExpanded/floorob_Aliensniperrifle.gif
+      112: Resources/FinalModPack/AlienArmouryExpanded/floorob_Aliensniperrifle_Clip.gif
+      113: Resources/FinalModPack/AlienArmouryExpanded/floorob_Plasmadestroyer.gif
+      114: Resources/FinalModPack/AlienArmouryExpanded/floorob_Plasmadestroyer_Clip.gif
+      115: Resources/FinalModPack/AlienArmouryExpanded/floorob_Plasmacaster.gif
+      116: Resources/FinalModPack/AlienArmouryExpanded/floorob_Plasmacaster_Clip.gif
+      117: Resources/FinalModPack/Weapons_Compilation/MindMissile/floorob_MindMissile.gif
+      118: Resources/FinalModPack/Tanks_Compilation/Scoutdrone/floorob_Scoutdrone.gif
+      119: Resources/FinalModPack/Races_Compilation/GazerRace/floorob_GAZER_CORPSE.gif
+      120: Resources/FinalModPack/Races_Compilation/GazerRace/floorob_HOLODRONE_CORPSE.gif
+      121: Resources/FinalModPack/Races_Compilation/WaspiteRace/floorob_WASPITE_CORPSE.gif
+      122: Resources/FinalModPack/Races_Compilation/WaspiteRace/floorob_CYBERMITE_CORPSE.gif
+      123: Resources/FinalModPack/Races_Compilation/ReptoidRace/floorob_REPTOID_CORPSE.gif
+      124: Resources/FinalModPack/Races_Compilation/ChtoniteRace/floorob_CHTONITE_CORPSE.gif
+      126: Resources/FinalModPack/Races_Compilation/CerebrealRace/floorob_CEREBREAL_CORPSE.gif
+      127: Resources/FinalModPack/Races_Compilation/CerebrealRace/floorob_CEREBREAL_LARVA_CORPSE.gif
+      128: Resources/FinalModPack/Alt_aliens/Muton_Commander/mutcom_corpse_FO.gif
+      129: Resources/FinalModPack/GravArmors/FlyingArmor/FloorCorpse.png
+      130: Resources/FinalModPack/GravArmors/JumpArmor/Floor_JumpArmor.png
+      131: Resources/FinalModPack/GravArmors/GravModule/Floor_GravModule.png
+      132: Resources/FinalModPack/men_in_black/floorob_MIB0_CORPSE.gif
+      133: Resources/FinalModPack/men_in_black/floorob_MIB1_CORPSE.gif
+      134: Resources/FinalModPack/men_in_black/floorob_MIB2_CORPSE.gif
+      135: Resources/FinalModPack/men_in_black/floorob_MIB3_CORPSE.gif
+      136: Resources/FinalModPack/Misc_Items_Compilation/floorob_AlienDataSlate.gif
+      137: Resources/FinalModPack/Armors_Compilation/HazmatArmor/floorob_Hazmat_Corpse.gif
+      138: Resources/FinalModPack/LaserWeaponry/FloorLaserAmmo.gif
+      139: Resources/FinalModPack/LaserWeaponry/Floor_Laser_Rifle_MiB.gif
+      140: Resources/FinalModPack/LaserWeaponry/Floor_Heavy_Laser_MiB.gif
+      141: Resources/FinalModPack/men_in_black/floorob_MIBTANK_CORPSE_1.gif
+      142: Resources/FinalModPack/men_in_black/floorob_MIBTANK_CORPSE_2.gif
+      143: Resources/FinalModPack/men_in_black/floorob_MIBTANK_CORPSE_3.gif
+      144: Resources/FinalModPack/men_in_black/floorob_MIBTANK_CORPSE_4.gif
+      145: Resources/FinalModPack/Weapons_Compilation/SLauncher_EleriumBomb/floorobj_SL_EleriumBomb.gif
+      146: Resources/FinalModPack/Races_Compilation/AnthropodRace/floorob_ANTHROPOD_CORPSE.gif
+      147: Resources/FinalModPack/Races_Compilation/AnthropodRace/floorob_SPITTER_CORPSE.gif
+      148: Resources/FinalModPack/Races_Compilation/AnthropodRace/floorob_SPITTER_RETRACT_CORPSE.gif
+      149: Resources/FinalModPack/Races_Compilation/AnthropodRace/floorob_SPITTER_NAKED_CORPSE.gif
+      150: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/floorob_UZI.gif
+      151: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/floorob_UZI_CLIP.gif
+      152: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/floorob_DYNAMITE.gif
+      153: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/floorob_SNUBNOSE.gif
+      154: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/floorob_SNUBNOSE_LOADER.gif
+      155: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/floorob_HUNTING_RIFLE.gif
+      156: Resources/FinalModPack/Races_Compilation/HybridRace/floorob_HYBRID_CORPSE.gif
+      157: Resources/FinalModPack/Races_Compilation/HybridRace/floorob_DRONE_CORPSE.gif
+      158: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/floorob_RPG.gif
+      159: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/floorob_RPG_ROUND.gif
+      160: Resources/FinalModPack/Armors_Compilation/Armored_Vest/floorob_ARMORED_VEST_CORPSE.gif
+      161: Resources/FinalModPack/Weapons_Compilation/AlloySword/floorob_ALLOY_SWORD.gif
+      162: Resources/FinalModPack/Weapons_Compilation/LaserShotgun/floorob_LaserShotgun.gif
+      163: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/floorob_ALLOY_VEST_CORPSE.gif
+      164: Resources/FinalModPack/Weapons_Compilation/AlloySword/FloorAlloyKnife.gif
+      165: Resources/FinalModPack/Doge/DOGE_c.gif
+      166: Resources/FinalModPack/Races_Compilation/WhiteEtherealRace/floorob_ETHEREAL_WHITE.gif
+      167: Resources/FinalModPack/Misc_Items_Compilation/floorob_AlienElectronics.gif
+      168: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/floorob_MACHETE.gif
+      169: Resources/FinalModPack/Alt_aliens/Sectoid_Guardian/floorob_Mechtoid.gif
+      170: Resources/FinalModPack/Alt_aliens/Muton_Engineer/floorob_MutEng.gif
+      171: Resources/FinalModPack/Alt_aliens/Muton_Leader/floorob_MutLeader.gif
+      172: Resources/FinalModPack/Alt_aliens/Muton_Medic/floorob_MutMed.gif
+      173: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/floorob_Stormtrooper.gif
+      174: Resources/FinalModPack/Weapons_Compilation/HeavySniperRifle/FloorHSR.gif
+      175: Resources/FinalModPack/Weapons_Compilation/HeavySniperRifle/floorob_HSR_Clip.gif
+      176: Resources/FinalModPack/Weapons_Compilation/AdvancedLauncher/floorob_AdvLauncher.gif
+      177: Resources/FinalModPack/Weapons_Compilation/Landmine/floorob_Landmine.gif
+      178: Resources/FinalModPack/Weapons_Compilation/MultiLauncher/floorob_Multilauncher_orange.gif
+      179: Resources/FinalModPack/Weapons_Compilation/MultiLauncher/floorob_RocketPack.gif
+      181: Resources/FinalModPack/Races_Compilation/WaspiteRace/floorob_WASPITE_RED_CORPSE.gif
+      182: Resources/FinalModPack/Races_Compilation/WaspiteRace/floorob_WASPITE_BROWN_CORPSE.gif
+      183: Resources/FinalModPack/Races_Compilation/WaspiteRace/floorob_WASPITE_PURPLE_CORPSE.gif
+      184: Resources/FinalModPack/Races_Compilation/WaspiteRace/floorob_WASPITE_WHITE_CORPSE.gif
+      185: Resources/FinalModPack/Weapons_Compilation/AssaultRifle/floorob_AssaultRifle.gif
+      186: Resources/FinalModPack/men_in_black/floorob_MIB4_CORPSE.gif
+      187: Resources/FinalModPack/men_in_black/floorob_MIB5_CORPSE.gif
+      188: Resources/FinalModPack/men_in_black/floorob_sect00.gif
+      189: Resources/FinalModPack/men_in_black/floorob_sect01.gif
+      190: Resources/FinalModPack/men_in_black/floorob_sect02.gif
+      191: Resources/FinalModPack/men_in_black/floorob_sect03.gif
+      192: Resources/FinalModPack/GaussWeaponry/floorob_RailSniper.gif
+      193: Resources/FinalModPack/GaussWeaponry/floorob_RailRifle.gif
+      194: Resources/FinalModPack/GaussWeaponry/floorob_RailPistol.gif
+      195: Resources/FinalModPack/GaussWeaponry/floorob_HeavyRailgun.gif
+      196: Resources/FinalModPack/GaussWeaponry/floorob_RailgunClip.gif
+      197: Resources/FinalModPack/GaussWeaponry/floorob_HeavyRailgunClip.gif
+      198: Resources/FinalModPack/Misc_Items_Compilation/floorob_Elerium.gif
+      199: Resources/FinalModPack/Armors_Compilation/Synthsuit/floorob_Synthsuit.gif
+      200: Resources/FinalModPack/AlienArmouryExpanded/floorob_Alienlaserrifle.gif
+      201: Resources/FinalModPack/AlienArmouryExpanded/floorob_Alienlaserrifle_Clip.gif
+      202: Resources/FinalModPack/CiviliansPack/FLOOROB_MALE_CIVILIAN2_CORPSE.gif
+      203: Resources/FinalModPack/CiviliansPack/FLOOROB_MALE_CIVILIAN3_CORPSE.gif
+      204: Resources/FinalModPack/CiviliansPack/FLOOROB_MALE_CIVILIAN4_CORPSE.gif
+      205: Resources/FinalModPack/CiviliansPack/FLOOROB_MALE_CIVILIAN5_CORPSE.gif
+      206: Resources/FinalModPack/CiviliansPack/FLOOROB_MALE_CIVILIAN6_CORPSE.gif
+      207: Resources/FinalModPack/CiviliansPack/FLOOROB_FEMALE_CIVILIAN2_CORPSE.gif
+      208: Resources/FinalModPack/CiviliansPack/FLOOROB_FEMALE_CIVILIAN3_CORPSE.gif
+      209: Resources/FinalModPack/CiviliansPack/FLOOROB_MALE_CIVILIAN7_CORPSE.gif
+      210: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/floorob_MACHETE.gif
+      211: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/floorob_JUGGERNAUT_SUIT_CORPSE.gif
+      212: Resources/FinalModPack/Armors_Compilation/ToxiSuit/floorob_ToxiSuit.gif
+      213: Resources/FinalModPack/AlienArmourySpecial/floorob_ConcussionCannon.gif
+      214: Resources/FinalModPack/AlienArmourySpecial/floorob_FireLauncher.gif
+      215: Resources/FinalModPack/AlienArmourySpecial/floorob_Multilauncher.gif
+      216: Resources/FinalModPack/AlienArmourySpecial/floorob_MultiBomb.gif
+      217: Resources/FinalModPack/AlienArmourySpecial/floorob_PhotonBlade.gif
+      218: Resources/FinalModPack/AlienArmourySpecial/floorob_Whip.gif
+      219: Resources/FinalModPack/Weapons_Compilation/PlasmaBlades/floorob_PlasmaBlade.gif
+      220: Resources/FinalModPack/Weapons_Compilation/PlasmaBlades/floorob_PlasmaSword.gif
+      221: Resources/FinalModPack/Misc_Items_Compilation/floorob_Heal.gif
+      222: Resources/FinalModPack/Misc_Items_Compilation/floorob_Pain.gif
+      223: Resources/FinalModPack/Misc_Items_Compilation/floorob_Stim.gif
+      224: Resources/FinalModPack/Races_Compilation/ReptoidRace/SAL_c1.gif
+      225: Resources/FinalModPack/Races_Compilation/ReptoidRace/SAL_c2.gif
+      226: Resources/FinalModPack/Races_Compilation/ReptoidRace/SAL_c3.gif
+      227: Resources/FinalModPack/Races_Compilation/ReptoidRace/SAL_c4.gif
+      228: Resources/FinalModPack/Races_Compilation/MutonRace/floorob_obliterator_1.gif
+      229: Resources/FinalModPack/Races_Compilation/MutonRace/floorob_obliterator_2.gif
+      230: Resources/FinalModPack/Races_Compilation/MutonRace/floorob_obliterator_3.gif
+      231: Resources/FinalModPack/Races_Compilation/MutonRace/floorob_obliterator_4.gif
+  - type: HANDOB.PCK
+    height: 40
+    width: 256
+    subX: 32
+    subY: 40
+    files:
+      128: Resources/FinalModPack/Weapons_Compilation/GrenadeLauncher/HandOb_GrenadeLauncher.png
+      136: Resources/FinalModPack/Weapons_Compilation/SniperRifle/HandOb_SniperRifle.png
+      144: Resources/FinalModPack/Weapons_Compilation/Submachinegun/HandOb_SMG.png
+      152: Resources/FinalModPack/Weapons_Compilation/Minigun/HandOb_Minigun.png
+      160: Resources/FinalModPack/Weapons_Compilation/Minigun/handob_ScatterLaser.png
+      168: Resources/FinalModPack/Weapons_Compilation/LightMachinegun/HandOb_LMG.png
+      176: Resources/FinalModPack/Weapons_Compilation/Magnum/HandOb_Magnum.png
+      184: Resources/FinalModPack/Weapons_Compilation/Flamethrower/HandOb_Flamethrower.png
+      192: Resources/FinalModPack/Weapons_Compilation/HMG/HandOb_HMG.png
+      200: Resources/FinalModPack/Weapons_Compilation/Taser/HandOb_Taser.png
+      208: Resources/FinalModPack/Weapons_Compilation/Shotgun/HandOb_Shotgun.png
+      216: Resources/FinalModPack/Weapons_Compilation/CombatKnife/HandOb_CombatKnife.png
+      224: Resources/FinalModPack/Medipack/HandOb_Medipack.png
+      232: Resources/FinalModPack/GaussWeaponry/HandOb_GaussSniper.png
+      240: Resources/FinalModPack/GaussWeaponry/HandOb_GaussRifle.png
+      248: Resources/FinalModPack/GaussWeaponry/HandOb_GaussPistol.png
+      256: Resources/FinalModPack/GaussWeaponry/HandOb_HeavyGauss.png
+      264: Resources/FinalModPack/Weapons_Compilation/DartRifle/HandOb_DartRifle.png
+      272: Resources/FinalModPack/Weapons_Compilation/EMace/HandOb_EMace.png
+      280: Resources/FinalModPack/FusionTorch/HandOb_FusionTorch.png
+      288: Resources/FinalModPack/AlienArmouryExpanded/handob_Aliensniperrifle.png
+      296: Resources/FinalModPack/AlienArmouryExpanded/handob_Plasmadestroyer.png
+      304: Resources/FinalModPack/AlienArmouryExpanded/handob_Plasmacaster.png
+      312: Resources/FinalModPack/AlienArmouryExpanded/handob_Toxigun.png
+      320: Resources/FinalModPack/LaserWeaponry/HandOb_Laser_Pistol_MiB.png
+      328: Resources/FinalModPack/LaserWeaponry/HandOb_Laser_Rifle_MiB.png
+      336: Resources/FinalModPack/LaserWeaponry/HandOb_Heavy_Laser_MiB.png
+      344: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/HandOb_UZI.png
+      352: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/HandOb_AK47.png
+      360: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/HandOb_SNUBNOSE.png
+      368: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/HandOb_PUMP_ACTION_SHOTGUN.png
+      376: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/HandOb_HUNTING_RIFLE.png
+      384: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/HandOb_RPG.png
+      392: Resources/FinalModPack/Weapons_Compilation/AlloySword/HandOb_ALLOY_SWORD.png
+      400: Resources/FinalModPack/Weapons_Compilation/LaserShotgun/HandOb_LaserShotgun.png
+      408: Resources/FinalModPack/Weapons_Compilation/AdvancedLauncher/handob_AdvLauncher.png
+      416: Resources/FinalModPack/Weapons_Compilation/MultiLauncher/handob_MultiLauncher.png
+      424: Resources/FinalModPack/Weapons_Compilation/AssaultRifle/handob_AssaultRifle.png
+      432: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/HandOb_MediKit.png
+      440: Resources/FinalModPack/Weapons_Compilation/SLauncher_EleriumBomb/HandOb_EleriumBomb.png
+      448: Resources/FinalModPack/GaussWeaponry/HandOb_RailSniper.png
+      456: Resources/FinalModPack/GaussWeaponry/HandOb_RailRifle.png
+      464: Resources/FinalModPack/GaussWeaponry/HandOb_RailPistol.png
+      472: Resources/FinalModPack/GaussWeaponry/HandOb_HeavyRailgun.png
+      480: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/handob_prx_grn.png
+      488: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/handob_aln_grn.png
+      496: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/handob_HE.png
+      504: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/handob_Scanner.png
+      512: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/handob_ElectroFlare.png
+      520: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/handob_MindProbe.png
+      528: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_SMRocket.png
+      536: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_LGRocket.png
+      544: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_INRocket.png
+      552: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_BlasterBomb.png
+      560: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_APAutoCannon.png
+      568: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_HEAutoCannon.png
+      576: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_INAutoCannon.png
+      584: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_APHeavyCannon.png
+      592: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_HEHeavyCannon.png
+      600: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_INHeavyCannon.png
+      608: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_SmokeGrenade.png
+      616: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_RifleClip.png
+      624: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_PistolClip.png
+      632: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_PPistolClip.png
+      640: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_PRifleClip.png
+      648: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_PHeavyClip.png
+      656: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/Handob_StunBomb.png
+      664: Resources/FinalModPack/Weapons_Compilation/ImprovedHandObs/handob_Elerium.png
+      672: Resources/FinalModPack/AlienArmouryExpanded/handob_Alienlaserrifle.png
+      680: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/handob_HoldoutPistol.gif
+      688: Resources/FinalModPack/AlienArmourySpecial/handob_ConcussionCannon.png
+      696: Resources/FinalModPack/AlienArmourySpecial/handob_PhotonBlade.png
+      704: Resources/FinalModPack/AlienArmourySpecial/handob_Whip.png
+      712: Resources/FinalModPack/Weapons_Compilation/PlasmaBlades/handob_PlasmaBlade.png
+      720: Resources/FinalModPack/Weapons_Compilation/PlasmaBlades/handob_PlasmaSword.png
+      728: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/handOb_Dynamite.png
+  - type: HIT.PCK
+    height: 40
+    width: 128
+    subX: 32
+    subY: 40
+    files:
+      4: Resources/FinalModPack/Weapons_Compilation/MeleeAnimations/StunRod.gif
+      8: Resources/FinalModPack/Weapons_Compilation/MeleeAnimations/Sword.gif
+      12: Resources/FinalModPack/Weapons_Compilation/MeleeAnimations/Claws.gif
+      16: Resources/FinalModPack/Weapons_Compilation/MeleeAnimations/Hit_PlasmaBlade.gif
+      20: Resources/FinalModPack/Weapons_Compilation/MeleeAnimations/Hit_PlasmaSword.gif
+  - type: SMOKE.PCK
+    height: 80
+    width: 160
+    subX: 32
+    subY: 40
+    files:
+      56: Resources/FinalModPack/Weapons_Compilation/Taser/HitAnimation.gif
+      66: Resources/FinalModPack/AlienArmouryExpanded/Bullets/toxic_hit.gif
+      76: Resources/FinalModPack/Races_Compilation/CerebrealRace/HitAnimation.gif
+      86: Resources/FinalModPack/AlienArmouryExpanded/Bullets/bluelaser_hit.gif
+  - type: BASEBITS.PCK
+    files:
+      55: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Firestorm_base2.gif
+      56: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Raven_base.gif
+      57: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Tormentor_base.gif
+      58: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Sentinel_base.gif
+      59: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Thunder_base.gif
+      60: Resources/FinalModPack/GaussWeaponry/Basebits/gausscraft.gif
+      61: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Dropship_base.gif
+      62: Resources/FinalModPack/GaussWeaponry/Basebits/railcraft.gif
+      63: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Skymarshall_base.gif
+      64: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/AWACS_base.gif
+      76: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Hawkeye_base.gif
+      77: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Darkstar_base.gif
+      300: Resources/FinalModPack/GaussWeaponry/Basebits/Gauss_Defenses.png
+      301: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_1.png
+      302: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_2.png
+      303: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_3.png
+      304: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_4.png
+      305: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_1.png
+      306: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_2.png
+      307: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_3.png
+      308: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_4.png
+      309: Resources/FinalModPack/ImprovedLivingQuarters/GS2_1.png
+      310: Resources/FinalModPack/ImprovedLivingQuarters/GS2_2.png
+      311: Resources/FinalModPack/ImprovedLivingQuarters/GS2_3.png
+      312: Resources/FinalModPack/ImprovedLivingQuarters/GS2_4.png
+      313: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_1.png
+      314: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_2.png
+      315: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_3.png
+      316: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_4.png
+  - type: INTICON.PCK
+    files:
+      17: Resources/FinalModPack/GaussWeaponry/Inticon/gausscraft.gif
+      19: Resources/FinalModPack/GaussWeaponry/Inticon/railcraft.gif
+      22: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Firestorm_minimized.gif
+      23: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Raven_minimised.gif
+      24: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Tormentor_minimised.gif
+      25: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Sentinel_minimized.gif
+      26: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Thunder_minimised.gif
+      28: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Dropship_minimised.gif
+      30: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Skymarshall_minimized.gif
+      31: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/AWACS_minimised.gif
+      33: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Firestorm_dogfight.gif
+      34: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Raven_dogfight.gif
+      35: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Tormentor_dogfight.gif
+      36: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Sentinel_dogfight.gif
+      37: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Thunder_dogfight.gif
+      39: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Dropship_dogfight.gif
+      41: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Skymarshall_dogfight.gif
+      42: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/AWACS_dogfight.gif
+      43: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Hawkeye_minimised.gif
+      44: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Darkstar_minimised.gif
+      54: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Hawkeye_dogfight.gif
+      55: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Darkstar_dogfight.gif
+  - type: OBLITERATOR.PCK
+    subX: 32
+    subY: 40
+    width: 256
+    height: 2320
+    files:
+      0: Resources/FinalModPack/Races_Compilation/MutonRace/OBLITERATOR.png
+  - type: UFOPEDIA_IMG_OBLITERATOR_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/MutonRace/ufopedia_OBLITERATOR_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_OBLITERATOR
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/MutonRace/ufopedia_OBLITERATOR.gif
+  - type: XCOM_CYBERDISC.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 160
+    files:
+      0: Resources/FinalModPack/XComCyberdisc/cybgreen.png
+  - type: XCOM_CYBERDISC_ORANGE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 160
+    files:
+      0: Resources/FinalModPack/XComCyberdisc/cyborange.png
+  - type: MUTCOM.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 680
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Muton_Commander/MUTCOM.png
+  - type: SNAKEMANCOM.PCK
+    subX: 32
+    subY: 40
+    width: 320
+    height: 560
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Snakeman_Commander/SnakemanCommander.png
+  - type: SNAKEMANNAV.PCK
+    subX: 32
+    subY: 40
+    width: 320
+    height: 560
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Snakeman_Navigator/SnakemanNavigator.png
+  - type: SNAKEMANLEA.PCK
+    subX: 32
+    subY: 40
+    width: 320
+    height: 560
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Snakeman_Leader/SnakemanLeader.png
+  - type: SNAKEMANENG.PCK
+    subX: 32
+    subY: 40
+    width: 320
+    height: 560
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Snakeman_Engineer/SnakemanEngineer.png
+  - type: MUTLEADER.PCK
+    subX: 32
+    subY: 40
+    width: 256
+    height: 1440
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Muton_Leader/MutLeader.png
+  - type: MUTMED.PCK
+    subX: 32
+    subY: 40
+    width: 256
+    height: 1440
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Muton_Medic/MutMed.png
+  - type: MUTENG.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 720
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Muton_Engineer/MutEng.png
+  - type: SECTCOM.PCK
+    subX: 32
+    subY: 40
+    width: 320
+    height: 1080
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Sectoid_Commander/sectoidCommander.png
+  - type: SECTARM.PCK
+    subX: 32
+    subY: 40
+    width: 256
+    height: 1440
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Sectoid_Guardian/Mechtoid.png
+  - type: FLOATER_WHITE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 280
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Floater_Medic/FloaterMedic.png
+  - type: FLOATER_BLUE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 280
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Floater_Navigator/FloaterNavigator.png
+  - type: FLOATER_GREEN.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 280
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Floater_Engineer/FloaterEngineer.png
+  - type: FLOATCOM.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 280
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Floater_Commander/Floater_Bleu.png
+  - type: FLOATLEA.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 280
+    files:
+      0: Resources/FinalModPack/Alt_aliens/Floater_Leader/floaterLeader.png
+  - type: ETHEREAL_WHITE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WhiteEtherealRace/Ethereal_white.png
+  - type: inventory_ETHEREAL_WHITE
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WhiteEtherealRace/inventory_ETHEREAL_WHITE.gif
+  - type: GAZER.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 680
+    files:
+      0: Resources/FinalModPack/Races_Compilation/GazerRace/GAZER.png
+  - type: WASPITE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 280
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/WASPITE.png
+  - type: WASPITE_RED.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 280
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/WASPITE_RED.png
+  - type: WASPITE_PURPLE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 280
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/WASPITE_PURPLE.png
+  - type: WASPITE_BROWN.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 280
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/WASPITE_BROWN.png
+  - type: WASPITE_WHITE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 280
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/WASPITE_WHITE.png
+  - type: inventory_GAZER
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/GazerRace/inventory_GAZER.gif
+  - type: ANTHROPOD.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 680
+    files:
+      0: Resources/FinalModPack/Races_Compilation/AnthropodRace/ANTHROPOD.png
+  - type: SPITTER.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/AnthropodRace/SPITTER.png
+  - type: SPITTER_RETRES.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 240
+    files:
+      0: Resources/FinalModPack/Races_Compilation/AnthropodRace/SPITTER_RETRES.png
+  - type: SPITTER_NAKED.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/AnthropodRace/SPITTER_NAKED.png
+  - type: SPITTER_RETRACT.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/AnthropodRace/SPITTER_RETRACT.png
+  - type: HOLODRONE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 40
+    files:
+      0: Resources/FinalModPack/Races_Compilation/GazerRace/HOLODRONE.png
+  - type: inventory_WASPITE
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/inventory_WASPITE.gif
+  - type: inventory_WASPITE_RED
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/inventory_WASPITE_RED.gif
+  - type: inventory_WASPITE_PURPLE
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/inventory_WASPITE_PURPLE.gif
+  - type: inventory_WASPITE_BROWN
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/inventory_WASPITE_BROWN.gif
+  - type: inventory_WASPITE_WHITE
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/inventory_WASPITE_WHITE.gif
+  - type: inventory_ANTHROPOD
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/AnthropodRace/inv_ANTHROPOD.gif
+  - type: CYBERMITE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 240
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/CYBERMITE.png
+  - type: CEREBREAL.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/CerebrealRace/CEREBREAL.png
+  - type: inventory_CEREBREAL
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/CerebrealRace/inventory_CEREBREAL.gif
+  - type: CHTONITE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 720
+    files:
+      0: Resources/FinalModPack/Races_Compilation/ChtoniteRace/CHTONITE.png
+  - type: REPTOID.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 720
+    files:
+      0: Resources/FinalModPack/Races_Compilation/ReptoidRace/REPTOID.png
+  - type: sectoidInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/sectoid.png
+  - type: mutonInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/muton.png
+  - type: snakemanInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/snakeman.png
+  - type: etherealInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/ethereal.png
+  - type: floaterInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/floater.png
+  - type: mutonengineerInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/mutonengineer.png
+  - type: mutonleaderInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/mutonleader.png
+  - type: mutoncommanderInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/mutoncommander.png
+  - type: mutonmedicInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/mutonmedic.png
+  - type: sectoidcommanderInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/sectoidcommander.png
+  - type: sectoidguardianInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/sectoidguardian.png
+  - type: floatercommanderInventoryImage
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/AlienInventory/floatercommander.png
+  - type: inventory_CHTONITE
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/ChtoniteRace/inventory_CHTONITE.gif
+  - type: inventory_REPTOID
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/ReptoidRace/inventory_REPTOID.gif
+  - type: CEREBREAL_LARVA.PCK
+    subX: 32
+    subY: 40
+    width: 352
+    height: 40
+    files:
+      0: Resources/FinalModPack/Races_Compilation/CerebrealRace/CEREBREAL_LARVA.png
+  - type: HYBRID.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 720
+    files:
+      0: Resources/FinalModPack/Races_Compilation/HybridRace/HYBRID.png
+  - type: inventory_HYBRID
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Races_Compilation/HybridRace/inventory_HYBRID.gif
+  - type: DRONE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/HybridRace/DRONE.png
+  - type: SALAMANDRON.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 400
+    files:
+      0: Resources/FinalModPack/Races_Compilation/ReptoidRace/SALAMANDRON.png
+  - type: NEWTANKS.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 400
+    files:
+      0: Resources/FinalModPack/Tanks_Compilation/NEWTANKS.png
+  - type: TANK2.PCK
+    width: 256
+    height: 800
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/Tanks_Compilation/SECTOPOD_LASER.png
+  - type: TANK3.PCK
+    width: 256
+    height: 840
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/Tanks_Compilation/SECTOPOD_PLASMA.png
+  - type: SCOUT.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 200
+    files:
+      0: Resources/FinalModPack/Tanks_Compilation/Scoutdrone/Drone.png
+  - type: DOGE.PCK
+    subX: 32
+    subY: 40
+    width: 512
+    height: 200
+    files:
+      0: Resources/FinalModPack/Doge/DOGE.png
+  - type: UFOPEDIA_IMG_HYBRID_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/FinalModPack/Races_Compilation/HybridRace/ufopedia_HYBRID_AUTOPSY.png
+  - type: UFOPEDIA_IMG_HYBRID
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/HybridRace/ufopedia_HYBRID.png
+  - type: UFOPEDIA_IMG_DRONE_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/HybridRace/ufopedia_DRONE_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_DRONE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/HybridRace/ufopedia_DRONE.png
+  - type: UFOPEDIA_IMG_CEREBREAL_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/FinalModPack/Races_Compilation/CerebrealRace/ufopedia_CEREBREAL_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_CEREBREAL
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/CerebrealRace/ufopedia_CEREBREAL.gif
+  - type: UFOPEDIA_IMG_CEREBREAL_LARVA_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/CerebrealRace/ufopedia_CEREBREAL_LARVA_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_CEREBREAL_LARVA
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/CerebrealRace/ufopedia_CEREBREAL_LARVA.gif
+  - type: UFOPEDIA_IMG_CHTONITE_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/FinalModPack/Races_Compilation/ChtoniteRace/ufopedia_CHTONITE_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_CHTONITE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/ChtoniteRace/ufopedia_CHTONITE.gif
+  - type: UFOPEDIA_IMG_GAZER_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/FinalModPack/Races_Compilation/GazerRace/ufopedia_GAZER_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_GAZER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/GazerRace/ufopedia_GAZER.gif
+  - type: UFOPEDIA_IMG_HOLODRONE_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/GazerRace/ufopedia_HOLODRONE_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_HOLODRONE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/GazerRace/ufopedia_HOLODRONE.gif
+  - type: UFOPEDIA_IMG_WASPITE_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/ufopedia_WASPITE_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_WASPITE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/ufopedia_WASPITE.gif
+  - type: UFOPEDIA_IMG_REPTOID_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files: 
+      0: Resources/FinalModPack/Races_Compilation/ReptoidRace/ufopedia_REPTOID_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_REPTOID
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/ReptoidRace/ufopedia_REPTOID.gif
+  - type: UFOPEDIA_IMG_ANTHROPOD
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/AnthropodRace/ufopedia_ANTHROPOD.gif
+  - type: UFOPEDIA_IMG_ANTHROPOD_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/AnthropodRace/ufopedia_ANTHROPOD_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_SPITTER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/AnthropodRace/ufopedia_SPITTER.gif
+  - type: UFOPEDIA_IMG_SPITTER_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/AnthropodRace/ufopedia_SPITTER_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_CYBERMITE_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/ufopedia_CYBERMITE_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_CYBERMITE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/WaspiteRace/ufopedia_CYBERMITE.gif
+  - type: UFOPEDIA_IMG_SALAMANDRON_AUTOPSY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/ReptoidRace/ufopedia_SALAMANDRON_AUTOPSY.gif
+  - type: UFOPEDIA_IMG_SALAMANDRON
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Races_Compilation/ReptoidRace/ufopedia_SALAMANDRON.gif
+  - type: XCOM_7.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/HazmatArmor/XCOM_7.png
+  - type: MAN_7.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/HazmatArmor/Inventory/inventory_hazmat.gif
+  - type: XCOM_15.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/ToxiSuit/toxi_suit.png
+  - type: MAN_15.SPK
+    width: 320
+    height: 200
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/ToxiSuit/inventory_toxi_suit.gif
+  - type: UFOIMAGE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Firestorm_ufopedia.gif
+  - type: ALLOY_CANNON
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/CraftWeapons/Ufopedia/Alloy_Cannon_Craft.gif
+  - type: RAIL_CANNON
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/GaussWeaponry/Ufopedia/Rail_Cannon_Craft.gif
+  - type: GAUSS_CANNON
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/GaussWeaponry/Ufopedia/Gauss_Cannon_Craft.gif
+  - type: UP002B.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Raven_ufopedia.gif
+  - type: SENTINEL_BIG
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Sentinel_ufopedia.gif
+  - type: UFOTHUNDER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Thunder_ufopedia.gif
+  - type: UP005.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Tormentor_ufopedia.gif
+  - type: ALLOYAMMO.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/alloyammo.png
+  - type: ALIENBIOLOGY.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/alienbiology.png
+  - type: ALIENGARDENS.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/aliengardens.png
+  - type: OPTICALPROCESSOR.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/opticalprocessor.png
+  - type: TRACTORBEAM.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/tractorbeam.png
+  - type: ANTIMATTER.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/antimatter.png
+  - type: GRAVITYGENERATOR.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/gravitygenerator.png
+  - type: FUSIONWEAPONS.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/fusionweapons.png
+  - type: PLASMAWEAPONS.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/plasmaweapons.png
+  - type: FUSIONCALIBRATION.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/fusioncalibration.png
+  - type: PLASMACALIBRATION.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/plasmacalibration.png
+  - type: FUSIONEXPLOSIVES.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/fusionexplosives.png
+  - type: ALIENSUBJUGATION.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/aliensubjugation.png
+  - type: ALIENNEUROPSYCHOLOGY.SPK
+    singleImage: true
+    width: 320
+    height: 160
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/alienneuropsychology.png
+  - type: InterceptionExcavator
+    singleImage: true
+    width: 160
+    height: 52
+    files:
+      0: Resources/FinalModPack/AlienArmouryExpandedUFOs/UFO_Excavator.gif
+  - type: InterceptionFighter
+    singleImage: true
+    width: 160
+    height: 52
+    files:
+      0: Resources/FinalModPack/AlienArmouryExpandedUFOs/UFO_fighter.gif
+  - type: InterceptionSentry
+    singleImage: true
+    width: 160
+    height: 52
+    files:
+      0: Resources/FinalModPack/AlienArmouryExpandedUFOs/UFO_Sentry.gif
+  - type: InterceptionLabShip
+    singleImage: true
+    width: 160
+    height: 52
+    files:
+      0: Resources/FinalModPack/AlienArmouryExpandedUFOs/UFO_LabShip.gif
+  - type: InterceptionEnvoyShip
+    singleImage: true
+    width: 160
+    height: 52
+    files:
+      0: Resources/FinalModPack/AlienArmourySpecial/UFO_Envoy.gif
+  - type: interception_jammed
+    singleImage: true
+    width: 160
+    height: 52
+    files:
+      0: Resources/FinalModPack/men_in_black/interception_jammed.gif
+  - type: MAN_2M0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/PowerArmor/Inventory/man_2m0.png
+  - type: MAN_2M1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/PowerArmor/Inventory/man_2m1.png
+  - type: MAN_2M2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/PowerArmor/Inventory/man_2m2.png
+  - type: MAN_2M3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/PowerArmor/Inventory/man_2m3.png
+  - type: MAN_2F0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/PowerArmor/Inventory/man_2f0.png
+  - type: MAN_2F1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/PowerArmor/Inventory/man_2f1.png
+  - type: MAN_2F2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/PowerArmor/Inventory/man_2f2.png
+  - type: MAN_2F3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/PowerArmor/Inventory/man_2f3.png
+  - type: MAN_3M0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/FlyingArmor/Inventory/man_3m0.png
+  - type: MAN_3M1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/FlyingArmor/Inventory/man_3m1.png
+  - type: MAN_3M2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/FlyingArmor/Inventory/man_3m2.png
+  - type: MAN_3M3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/FlyingArmor/Inventory/man_3m3.png
+  - type: MAN_3F0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/FlyingArmor/Inventory/man_3f0.png
+  - type: MAN_3F1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/FlyingArmor/Inventory/man_3f1.png
+  - type: MAN_3F2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/FlyingArmor/Inventory/man_3f2.png
+  - type: MAN_3F3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/FlyingArmor/Inventory/man_3f3.png
+  - type: MAN_5F0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/JumpArmor/Inventory/man_5f0.png
+  - type: MAN_5F1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/JumpArmor/Inventory/man_5f1.png
+  - type: MAN_5F2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/JumpArmor/Inventory/man_5f2.png
+  - type: MAN_5F3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/JumpArmor/Inventory/man_5f3.png
+  - type: MAN_5M0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/JumpArmor/Inventory/man_5m0.png
+  - type: MAN_5M1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/JumpArmor/Inventory/man_5m1.png
+  - type: MAN_5M2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/JumpArmor/Inventory/man_5m2.png
+  - type: MAN_5M3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/JumpArmor/Inventory/man_5m3.png
+  - type: MAN_6M0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/Civ/Civ_Male.gif
+  - type: MAN_9F0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/GravModule/Inventory/MAN_9F0.png
+  - type: MAN_9F1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/GravModule/Inventory/MAN_9F1.png
+  - type: MAN_9F2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/GravModule/Inventory/MAN_9F2.png
+  - type: MAN_9F3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/GravModule/Inventory/MAN_9F3.png
+  - type: MAN_9M0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/GravModule/Inventory/MAN_9M0.png
+  - type: MAN_9M1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/GravModule/Inventory/MAN_9M1.png
+  - type: MAN_9M2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/GravModule/Inventory/MAN_9M2.png
+  - type: MAN_9M3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/GravArmors/GravModule/Inventory/MAN_9M3.png
+  - type: MAN_10F0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Armored_Vest/Inventory/man_10f0.gif
+  - type: MAN_10F1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Armored_Vest/Inventory/man_10f1.gif
+  - type: MAN_10F2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Armored_Vest/Inventory/man_10f2.gif
+  - type: MAN_10F3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Armored_Vest/Inventory/man_10f3.gif
+  - type: MAN_10M0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Armored_Vest/Inventory/man_10m0.gif
+  - type: MAN_10M1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Armored_Vest/Inventory/man_10m1.gif
+  - type: MAN_10M2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Armored_Vest/Inventory/man_10m2.gif
+  - type: MAN_10M3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Armored_Vest/Inventory/man_10m3.gif
+  - type: MAN_11F0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/Inventory/man_11f0.gif
+  - type: MAN_11F1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/Inventory/man_11f1.gif
+  - type: MAN_11F2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/Inventory/man_11f2.gif
+  - type: MAN_11F3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/Inventory/man_11f3.gif
+  - type: MAN_11M0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/Inventory/man_11m0.gif
+  - type: MAN_11M1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/Inventory/man_11m1.gif
+  - type: MAN_11M2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/Inventory/man_11m2.gif
+  - type: MAN_11M3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/Inventory/man_11m3.gif
+  - type: MAN_12F0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/Inventory/man_12f0.gif
+  - type: MAN_12F1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/Inventory/man_12f1.gif
+  - type: MAN_12F2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/Inventory/man_12f2.gif
+  - type: MAN_12F3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/Inventory/man_12f3.gif
+  - type: MAN_12M0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/Inventory/man_12m0.gif
+  - type: MAN_12M1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/Inventory/man_12m1.gif
+  - type: MAN_12M2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/Inventory/man_12m2.gif
+  - type: MAN_12M3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/Inventory/man_12m3.gif
+  - type: MAN_13F0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Synthsuit/Inventory/man_13f0.gif
+  - type: MAN_13F1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Synthsuit/Inventory/man_13f1.gif
+  - type: MAN_13F2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Synthsuit/Inventory/man_13f2.gif
+  - type: MAN_13F3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Synthsuit/Inventory/man_13f3.gif
+  - type: MAN_13M0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Synthsuit/Inventory/man_13m0.gif
+  - type: MAN_13M1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Synthsuit/Inventory/man_13m1.gif
+  - type: MAN_13M2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Synthsuit/Inventory/man_13m2.gif
+  - type: MAN_13M3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Synthsuit/Inventory/man_13m3.gif
+  - type: MAN_14F0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/Inventory/man_14f0.gif
+  - type: MAN_14F1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/Inventory/man_14f1.gif
+  - type: MAN_14F2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/Inventory/man_14f2.gif
+  - type: MAN_14F3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/Inventory/man_14f3.gif
+  - type: MAN_14M0.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/Inventory/man_14m0.gif
+  - type: MAN_14M1.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/Inventory/man_14m1.gif
+  - type: MAN_14M2.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/Inventory/man_14m2.gif
+  - type: MAN_14M3.SPK
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/Inventory/man_14m3.gif
+  - type: XCOM_2.PCK
+    width: 1024
+    height: 360
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/GravArmors/PowerArmor/PowerArmor.png
+  - type: XCOM_5.PCK
+    width: 1024
+    height: 360
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/GravArmors/JumpArmor/jump.png
+  - type: XCOM_8.PCK
+    width: 1024
+    height: 360
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/GravArmors/FlyingArmor/FlyingArmor.png
+  - type: XCOM_9.PCK
+    width: 1024
+    height: 360
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/GravArmors/GravModule/GravModule.png
+  - type: XCOM_10.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Armored_Vest/CombatArmor.png
+  - type: XCOM_11.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Alloy_Vest/AlloyPlating.png
+  - type: XCOM_12.PCK
+    width: 256
+    height: 1440
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Stormtrooper_Suit/Stormtrooper.png
+  - type: XCOM_13.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Synthsuit/Synthsuit.png
+  - type: XCOM_14.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/Armors_Compilation/Juggernaut_Suit/Juggernaut.png
+  - type: MIB_0.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/men_in_black/MIB_0.png
+  - type: inventory_MIB0
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/men_in_black/inventory_MIB0.gif
+  - type: MIB_1.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/men_in_black/MIB_1.png
+  - type: inventory_MIB1
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/men_in_black/inventory_MIB1.gif
+  - type: MIB_2.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/men_in_black/MIB_2.png
+  - type: inventory_MIB2
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/men_in_black/inventory_MIB2.gif
+  - type: MIB_3.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/men_in_black/MIB_3.png
+  - type: inventory_MIB3
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/men_in_black/inventory_MIB3.gif
+  - type: MIB_4.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/men_in_black/MIB_4.png
+  - type: inventory_MIB4
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/men_in_black/inventory_MIB4.gif
+  - type: MIB_5.PCK
+    width: 256
+    height: 1440
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/men_in_black/MIB_5.png
+  - type: inventory_MIB5
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/men_in_black/inventory_MIB5.gif
+  - type: MALE_CIVILIAN2.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/CiviliansPack/MALE_CIVILIAN2.png
+  - type: MALE_CIVILIAN3.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/CiviliansPack/MALE_CIVILIAN3.png
+  - type: MALE_CIVILIAN4.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/CiviliansPack/MALE_CIVILIAN4.png
+  - type: MALE_CIVILIAN5.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/CiviliansPack/MALE_CIVILIAN5.png
+  - type: MALE_CIVILIAN6.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/CiviliansPack/MALE_CIVILIAN6.png
+  - type: MALE_CIVILIAN7.PCK
+    width: 512
+    height: 200
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/CiviliansPack/MALE_CIVILIAN7.png
+  - type: FEMALE_CIVILIAN2.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/CiviliansPack/FEMALE_CIVILIAN2.png
+  - type: FEMALE_CIVILIAN3.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/CiviliansPack/FEMALE_CIVILIAN3.png
+  - type: MIBTANKS.PCK
+    width: 512
+    height: 320
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/men_in_black/MIBTANKS.png
+  - type: MIBSECT.PCK
+    width: 256
+    height: 840
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/men_in_black/MIBSECTOPOD.png
+  - type: UFOPEDIA_IMG_MIB_IDENTITY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/men_in_black/ufopedia_MIB_plot.gif
+  - type: HAWKEYE_BIG
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/HAWKEYE_ufopedia.png
+  - type: AWACS_BIG
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/AWACS_ufopedia.png
+  - type: DARKSTAR_BIG
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/DARKSTAR_ufopedia.png
+  - type: DROPSHIP.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Dropship.png
+  - type: STORMLANCE.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/CraftWeapons/Ufopedia/Stormlance.gif
+  - type: Commendations
+    width: 31
+    height: 8
+    files:
+      0: Resources/FinalModPack/Commendations/
+  - type: CommendationDecorations
+    width: 31
+    height: 8
+    files:
+      0: Resources/FinalModPack/CommendationDecorations/
+  - type: MILITARY_CROSS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_MILITARY_CROSS.png    
+  - type: MEDAL_OF_HEROISM
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_MEDAL_OF_HEROISM.png
+  - type: STAR_OF_VALOR
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_STAR_OF_VALOR.png  
+  - type: DBLKILL
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_DBLKILL.png 
+  - type: FALLEN
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_FALLEN.png  
+  - type: SERVICE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_SERVICE_MEDAL.png 
+  - type: HONOR_CROSS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_HONOR_CROSS.png 
+  - type: LONGEST_NIGHT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_LONGEST_NIGHT.png
+  - type: ORDER_OF_EARTH
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ORDER_OF_EARTH.png
+  - type: PURPLE_HEART
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_PURPLE_HEART.png
+  - type: CRIMSON_HEART
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_CRIMSON_HEART.png    
+  - type: ORDER_OF_RESTRAINT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ORDER_OF_RESTRAINT.png
+  - type: MAN_OF_STEEL
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_MAN_OF_STEEL.png  
+  - type: MERIT_STAR
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_MERIT_STAR.png  
+  - type: ALIEN_BASE_ASSAULT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ALIEN_BASE_ASSAULT.png        
+  - type: DEFENDER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_DEFENDER.png
+  - type: TRAP
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_TRAP.png
+  - type: VALIANT_CRUX
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_VALIANT_CRUX.png
+  - type: REACTIONFIRE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_REACTIONFIRE.png
+  - type: BOLTS_CROSS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_BOLTS_CROSS.png
+  - type: GRENADIERS_MEDAL
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_GRENADIERS_MEDAL.png
+  - type: BLACK_CROSS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_BLACK_CROSS.png
+  - type: STAR_OF_ASCLEPIUS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_STAR_OF_ASCLEPIUS.png
+  - type: CAMPAIGN_RIBBON
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_CAMPAIGN_RIBBON.png
+  - type: WEAPON_PROFICIENCY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_WEAPON_PROFICIENCY.png
+  - type: DISTINGUISHED_SERVICE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_DISTINGUISHED_SERVICE.png
+  - type: HELLRAISER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_HELLRAISER.png
+  - type: LUCKYSHOT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_LUCKYSHOT.png
+  - type: IRON_MAN
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_IRON_MAN.png   
+  - type: XENOCIDE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_XENOCIDE_MEDAL.png
+  - type: SNIPER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_SNIPER.png  
+  - type: NIKE_CROSS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_NIKE_CROSS.png
+  - type: ORDER_OF_GLORY
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ORDER_OF_GLORY.png
+  - type: SAPPER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_SAPPER.png
+  - type: SECTOPOD_KILL
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_SECTOPOD_KILL.png
+  - type: MERCY_CROSS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_MERCY_CROSS.png
+  - type: REVIVE
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ANGEL.png
+  - type: NIGHTOPS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_NIGHTOPS.png 
+  - type: HEALER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_HEALER.png
+  - type: BESTOFRANK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_BESTOFRANK.png  
+  - type: BESTSOLDIER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_BESTSOLDIER.png        
+  - type: ALLMISSIONS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ALLMISSIONS.png  
+  - type: STATGAIN
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_STATGAIN.png
+  - type: ANTITERROR
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ANTITERROR.png         
+  - type: ALLBATTLETYPES
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ALLBATTLETYPES.png 
+  - type: FLANKSHOT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_FLANKSHOT.png
+  - type: MIA
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_MIA.png 
+  - type: HEADSHOT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_HEADSHOT.png 
+  - type: MEDIKIT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_MEDIKIT.png
+  - type: ORIGINAL8
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ORIGINAL8.png        
+  - type: BRAVERYGAIN
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_BRAVERYGAIN.png      
+  - type: ALLUFOS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ALLUFOS.png 
+  - type: ALLRANKS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_ALLRANKS.png       
+  - type: REARSHOT
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_REARSHOT.png 
+  - type: PLACEHOLDER
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Medals/MEDAL_PLACEHOLDER.png  
