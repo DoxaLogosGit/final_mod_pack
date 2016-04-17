@@ -5,26 +5,32 @@ by Open X-Com community
 Collected by: Human Ktulu and Solarius Scorch
 
 
-### WHAT IS FINAL MOD PACK?
+#### WHAT IS FINAL MOD PACK?
 
 FMP is a mod for the video game [OpenXCom](http://www.openxcom.org) which is a opensource clone of XCOM. To play OpenXCom, you must own a copy of XCOM which 
 you can get from [Steam](http://store.steampowered.com)  or [GOG](http://www.gog.com).
 
 **WARNING: Requires nightly build version openxcom_git_master_2015_07_28_1435 or later! Get it from [here](http://openxcom.org/git-builds/.)**
 
-### WHAT DOES THIS MOD DO?
+#### WHAT DOES THIS MOD DO?
 It adds lots of new content: alien races, missions, weapons, maps, you name it. And everything was made by our community members.
 
-### WHY WAS IT MADE?
+#### WHY WAS IT MADE?
 This megamod has two goals in mind:
 
 1. To include as much extra content made by the community as possible without going overboard, as well as ensure that this content is balanced.
 2. To make the game take longer, so that various tiers of equipment and aliens lasted long enough to appreciate them.
 
-### HOW DO I GET THE WHOLE MOD, SINCE IT'S NOT ALL ON GITHUB?
+#### WHY IS THE WHOLE MOD NOT ON GITHUB?
+
+Part of FMP is not commited to Github, because the mod contains some of the original XCOM graphics and original artwork from other creators. This
+could cause potential licensing conflicts that we don't know how to resolve yet.  We may post more in the near future as we determine license
+compatibility.  For now, mostly the text files for rulesets and metadata are committed to the repo for collaboration.
+
+#### HOW DO I GET THE WHOLE MOD, SINCE IT'S NOT ALL ON GITHUB?
 You get it from the OpenXcom mod site located [here](http://www.openxcom.com/mod/final-mod-pack)
 
-### HOW DO I INSTALL THIS MOD?
+#### HOW DO I INSTALL THIS MOD?
 - Open your "user" folder (normally Documents/MyGames/Openxcom or Documents/Openxcom, though it can be set up differently),
 - Copy the entire Final Mod Pack folder to the "/mods" folder,
 - Enable the mod from the Game Options menu.
@@ -33,35 +39,35 @@ If you have any issues, see the excellent "Let's Install Final Mod Pack Tutorial
 
 Also, if you want to enjoy an alternative set of custom sounds, get Daedalus' very nice High Quality Sounds mod for this pack at [here](http://www.openxcom.com/mod/high-quality-sounds).
 
-### WHAT OPENXCOM OPTIONS SHOULD I USE?
+#### WHAT OPENXCOM OPTIONS SHOULD I USE?
 - Make sure you use the "item is destroyed on research" option, or else you will be able to research the Alien Data Slate over and over, which would be a cheat.
 - Please note that all weapons were balanced for "UFO Extender Accuracy" option turned on, since it makes combat more interesting and varied. You don't have to do it, but it's recommended.
 
-### HOW DO I PROVIDE FEEDBACK?
+#### HOW DO I PROVIDE FEEDBACK?
 Please post any feedback - bug reports, tanks, criticisms, requests for enhancements and the like - on the following [thread](http://openxcom.org/forum/index.php?topic=2027.0), or simply in the OXC Mods comment section.
 
-### SO WHAT IS INSIDE, EXACTLY?
+#### SO WHAT IS INSIDE, EXACTLY?
 It can be split into two categories: content that was added from other mods (sometimes slightly tweaked) and the framework that makes it viable. For the former, check the list of included mods below; for the latter, it mostly concerns changes to the tech tree.
 
-### IS THIS MOD FOR EVERYONE?
+#### IS THIS MOD FOR EVERYONE?
 No mod is for everyone, because some compromises always have to be made. For example, we do not include content that would invalidate any vanilla content, because we don't want to take away what people already know - only add new stuff. Therefore you may find that some of our decisions were not what you expected. Still, this is a monumental work adding and balancing everything, which you don't have to do yourself, so it's probably worth it!
 
-### IS THIS MOD COMPLETE?
+#### IS THIS MOD COMPLETE?
 Hard to say. The community still makes great mods, so something worth adding may come up, but at this point we're pretty much done. Nevertheless, we will still be fixing any new bugs and perhaps change things that are really unpopular.
 
-### IS THIS MOD COMPATIBLE WITH OTHER MODS?
+#### IS THIS MOD COMPATIBLE WITH OTHER MODS?
 Generally, yes. However, since this is so complex, there is a significant risk that it will conflict with something else. It certainly works with all rulesets released with the game, like the XComUtil elements.
 Before applying the mod, make sure it's not already included in the package! If it is, expect a conflict of some sort.
 
-### ANY TIPS ON HOW TO PLAY?
+#### ANY TIPS ON HOW TO PLAY?
 The only major difference between playing vanilla game and the Final Mod Pack is access to new research. The FMP tech tree relies rather heavily on live alien interrogation, so capturing aliens - especially higher ranks - is essential. Do not expect to get even to lasers without some investment in live alien capture equipment!
 Also, build radars to cover all continents ASAP. The Men in Black bases are particularly nasty, since they may operate for months before discovering them.
 Finally, prepare for a longer war than usual. This can't be finished in three months of game time, and I doubt you'll manage within a year.
 
-### WHAT LANGUAGES ARE SUPPORTED?
+#### WHAT LANGUAGES ARE SUPPORTED?
 Currently, the fully supported languages are British English, US English and Polish. Russian and Spanish are mostly supported, which means some strings may be missing or outdated, but the mod should be playable in these languages. Other languages are not supported, though some have random strings translated.
 
-### ANY FUTURE PLANS?
+#### ANY FUTURE PLANS?
 Yeah, a better readme. :P Certainly more language versions, if they come to us. And of course we will continue with upgrading and expanding the mod, since our community is tremendously talented!
 
 ## CHANGELOG:
