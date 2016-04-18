@@ -145,209 +145,208 @@ Let us know what you think - we'll work on further improvements, after all this 
 
 ## LIST OF INCLUDED MODS 
 
-* [Combat Knife](http://www.openxcom.com/mod/combat-knife), by Warboy1982
-Adds a combat knife.
+* [Combat Knife](http://www.openxcom.com/mod/combat-knife), by Warboy1982 - Adds a combat knife.
 
-* [Dart Rifle](http://www.openxcom.com/mod/dart-rifle), by Solarius Scorch
+* [Dart Rifle](http://www.openxcom.com/mod/dart-rifle), by Solarius Scorch -
 Adds a ranged stun weapon.
 
-* [Elerium Mace](http://www.openxcom.com/mod/elerium-mace), by Tyran_Nick
+* [Elerium Mace](http://www.openxcom.com/mod/elerium-mace), by Tyran_Nick -
 Adds a melee stun weapon.
 
-* [Flamethrower](From the Piratez mod: http://www.openxcom.com/mod/piratez), by Dioxine
-Adds a flamethrower.
+* [Flamethrower](http://www.openxcom.com/mod/piratez), by Dioxine -
+Adds a flamethrower (From the Piratez mod).
 
-* [Fusion Torch](http://www.openxcom.com/mod/fusion-torch), by Ran
+* [Fusion Torch](http://www.openxcom.com/mod/fusion-torch), by Ran -
 Adds an advanced UFO cutter.
 
-* [Gauss weapons (and a new craft cannon)](http://www.openxcom.com/mod/gauss-mod), by Solarius Scorch (GFX by GrandSirThebus)
+* [Gauss weapons (and a new craft cannon)](http://www.openxcom.com/mod/gauss-mod), by Solarius Scorch (GFX by GrandSirThebus) -
 Adds gauss weapons for soldiers, tanks and craft.
 
-* [Grenade Launcher](http://www.openxcom.com/mod/grenade-launcher), by Warboy1982
+* [Grenade Launcher](http://www.openxcom.com/mod/grenade-launcher), by Warboy1982 -
 Adds a grenade launcher with several ammo types.
 
-* [HMG](http://openxcom.org/forum/index.php?topic=1922.msg18049#msg18049), by Dioxine
+* [HMG](http://openxcom.org/forum/index.php?topic=1922.msg18049#msg18049), by Dioxine -
 Adds a heavy machine gun with high power, good accuracy and poor mobility.
 
-* [Incendiary Grenade](http://www.openxcom.com/mod/custom-grenades), by Simon-v
+* [Incendiary Grenade](http://www.openxcom.com/mod/custom-grenades), by Simon-v -
 Adds incendiary grenades.
 
-* [LMG](http://www.openxcom.com/mod/ryskeliinis-guns-n-gadgets-1st-pack), by Ryskeliini
+* [LMG](http://www.openxcom.com/mod/ryskeliinis-guns-n-gadgets-1st-pack), by Ryskeliini -
 Adds a light machine gun - stronger but not as precise as the rifle.
 
-* [Magnum](http://www.openxcom.com/mod/ryskeliinis-guns-n-gadgets-1st-pack), by Ryskeliini
+* [Magnum](http://www.openxcom.com/mod/ryskeliinis-guns-n-gadgets-1st-pack), by Ryskeliini -
 Adds a big pistol.
 
-* [Mind Missile](http://www.openxcom.com/mod/mind-missile), by Clownagent
+* [Mind Missile](http://www.openxcom.com/mod/mind-missile), by Clownagent -
 Adds a new rocket for the launcher that uses blaster launcher mechanics.
 
-* [Minigun](http://www.openxcom.com/mod/minigun), by Solarius Scorch
+* [Minigun](http://www.openxcom.com/mod/minigun), by Solarius Scorch -
 Adds 3 minigun weapons and a new tank.
 
-* [Shotgun](), by Warboy1982 and Dioxine (a patchwork of their mods)
+* [Shotgun](), by Warboy1982 and Dioxine - (a patchwork of their mods)
 (no link available)
 Adds a shotgun.
 
-* [SMG](http://www.openxcom.com/mod/ryskeliinis-guns-n-gadgets-1st-pack), by Ryskeliini
+* [SMG](http://www.openxcom.com/mod/ryskeliinis-guns-n-gadgets-1st-pack), by Ryskeliini -
 Adds a sub-machine gun. Brrrrrt!
 
-* [Sniper Rifle](http://www.openxcom.com/mod/sniper-rifle), by toshiaki2115
+* [Sniper Rifle](http://www.openxcom.com/mod/sniper-rifle), by toshiaki2115 -
 Adds a precision rifle.
 
-* [Taser](http://www.openxcom.com/mod/ryskeliinis-guns-n-gadgets-1st-pack), by Ryskeliini
+* [Taser](http://www.openxcom.com/mod/ryskeliinis-guns-n-gadgets-1st-pack), by Ryskeliini -
 Adds a stun gun.
 
-* [Alloy ammo](), by Moriarty and Solarius Scorch
+* [Alloy ammo](), by Moriarty and Solarius Scorch -
 (no link available)
 Adds alien alloy ammunition for all firearms (and a new craft cannon).
 
-* [HWP.rul](http://www.openxcom.com/mod/sectopod-hwp), by Harry
+* [HWP.rul](http://www.openxcom.com/mod/sectopod-hwp), by Harry -
 Adds Sectopod chassis to be used by X-Com.
 
-* [Scoutdrone.rul](http://www.openxcom.com/mod/scout-drone), by Arpia
+* [Scoutdrone.rul](http://www.openxcom.com/mod/scout-drone), by Arpia -
 Adds a small scouting vehicle.
 
-* [First Aid Kit](http://openxcom.org/forum/index.php?topic=1782.0), by Yrizoud
+* [First Aid Kit](http://openxcom.org/forum/index.php?topic=1782.0), by Yrizoud -
 Adds a big, heavy medikit (the vanilla medikit must be researched).
 
-* [Plasma Beam Mod](http://www.openxcom.com/mod/plasma-beam-mod), by Solarius Scorch
+* [Plasma Beam Mod](http://www.openxcom.com/mod/plasma-beam-mod), by Solarius Scorch -
 Modifies Plasma Beam craft weapon so that it uses Elerium-115 as ammunition: each shot costs one Elerium. "Ammo" capacity was also decreased from 100 to 50 shots.
 
-* [Alien Melee Stat](http://www.openxcom.com/mod/alien-melee-stat), by Solarius Scorch
+* [Alien Melee Stat](http://www.openxcom.com/mod/alien-melee-stat), by Solarius Scorch -
 Changes Melee stats of aliens to more reasonable values.
 
-* [Alien Armoury Expanded](http://www.openxcom.com/mod/alien-armoury-expanded), by Solarius Scorch
+* [Alien Armoury Expanded](http://www.openxcom.com/mod/alien-armoury-expanded), by Solarius Scorch -
 Adds new weapons and UFOs, as well as makes the aliens retain their smaller weapons throughout the game.
 
-* [Alien Inventory Mod](http://www.openxcom.com/mod/alien-inventory-mod), by Cyrix
+* [Alien Inventory Mod](http://www.openxcom.com/mod/alien-inventory-mod), by Cyrix -
 Adds inventory pictures for mind-controlled aliens.
 
-* [Laser Sectopod](http://openxcom.org/forum/index.php?topic=1958), by Louis de Funes
+* [Laser Sectopod](http://openxcom.org/forum/index.php?topic=1958), by Louis de Funes -
 Changes Sectopod weapon description to laser, according to the lore.
 
-* [Muton Commander](http://www.openxcom.com/mod/muton-commander), by Phaedris
+* [Muton Commander](http://www.openxcom.com/mod/muton-commander), by Phaedris -
 Adds Muton Commanders and Muton Leaders (as in the game intro).
 
-* [Recycled Alien Collection](http://www.openxcom.com/mod/recycled-alien-collection), by Solarius Scorch and Civilian
+* [Recycled Alien Collection](http://www.openxcom.com/mod/recycled-alien-collection), by Solarius Scorch and Civilian -
 Adds new aliens, using recoloured sprites from X-Com: Terror from the Deep.
 
-* [Terrain Pack](http://www.openxcom.com/mod/terrain-missions-pack), by Hobbes
+* [Terrain Pack](http://www.openxcom.com/mod/terrain-missions-pack), by Hobbes -
 Adds new terrains to fight on, as well as new alien missions.
 
-* [Stun Grenade](http://www.openxcom.com/mod/stun-grenade), by Murmur
+* [Stun Grenade](http://www.openxcom.com/mod/stun-grenade), by Murmur -
 Allows converting stun bombs to stun grenades.
 
-* [Men in Black](http://openxcom.org/forum/index.php?topic=2180.0), by Robin
+* [Men in Black](http://openxcom.org/forum/index.php?topic=2180.0), by Robin -
 Adds a human faction to fight with.
 
-* [Gazer Alien](http://openxcom.org/forum/index.php?topic=2180.0), by Robin
+* [Gazer Alien](http://openxcom.org/forum/index.php?topic=2180.0), by Robin -
 Adds a new alien race.
 
-* [Cover Alien](http://openxcom.org/forum/index.php?topic=2180.0), by Robin
+* [Cover Alien](http://openxcom.org/forum/index.php?topic=2180.0), by Robin -
 Adds a new alien race, based on the game's cover art.
 
-* [Anthropod](http://openxcom.org/forum/index.php?topic=2180.0), by Robin
+* [Anthropod](http://openxcom.org/forum/index.php?topic=2180.0), by Robin -
 Adds a new alien race, inspired by the X-Com: Apocalypse.
 
-* [Alloy Skyranger Mod](http://openxcom.org/forum/index.php?topic=2048.0), by Civilian
+* [Alloy Skyranger Mod](http://openxcom.org/forum/index.php?topic=2048.0), by Civilian -
 New Skyranger map (+2 capacity).
 
-* [AlloyCrafts](), by The Old One
+* [AlloyCrafts](), by The Old One -
 (no link available)
 New variants of Interceptor and Skyranger.
 
-* [Raven](http://www.openxcom.com/mod/raven-interceptor), by MickTheMage
+* [Raven](http://www.openxcom.com/mod/raven-interceptor), by MickTheMage -
 Adds a new fighter plane.
 
-* [Sentinel](http://www.openxcom.com/mod/sentinel), by Warboy1982
+* [Sentinel](http://www.openxcom.com/mod/sentinel), by Warboy1982 -
 Adds a new fighter plane.
 
-* [Thunder mod](http://www.openxcom.com/mod/thunderstorm-interceptor) created by Tyran_Nick
+* [Thunder mod](http://www.openxcom.com/mod/thunderstorm-interceptor), by Tyran_Nick -
 Adds a new fighter plane.
 
-* [Firestorm Restyle](http://www.openxcom.com/mod/firestorm-restyle), by Shadow
+* [Firestorm Restyle](http://www.openxcom.com/mod/firestorm-restyle), by Shadow -
 Effectively, adds a new fighter plane.
 
-* [Alien Base Cave](http://openxcom.org/forum/index.php?topic=2091.msg20402#msg20402), by Civilian
+* [Alien Base Cave](http://openxcom.org/forum/index.php?topic=2091.msg20402#msg20402), by Civilian -
 Adds a new type of alien base.
 
-* [Alien Base Addon Terrain](http://openxcom.org/forum/index.php?topic=2082.0), by Civilian
+* [Alien Base Addon Terrain](http://openxcom.org/forum/index.php?topic=2082.0), by Civilian -
 Adds new mapblocks to the alien base.
 
-* [Farm Addon Terrain](http://openxcom.org/forum/index.php?topic=2082.0), by Civilian
+* [Farm Addon Terrain](http://openxcom.org/forum/index.php?topic=2082.0), by Civilian -
 New barns and stuff.
 
-* [Reproduction](http://www.openxcom.com/mod/alien-reproduction), by Warboy1982
+* [Reproduction](http://www.openxcom.com/mod/alien-reproduction), by Warboy1982 -
 Allows access to the alien reproduction research topic.
 
-* [Weapon Sound Variety](http://openxcom.org/forum/index.php?topic=2045), by Tarvis
+* [Weapon Sound Variety](http://openxcom.org/forum/index.php?topic=2045), by Tarvis -
 Adds more varied plasma sounds.
 
-* [Expanded Terror](http://www.openxcom.com/mod/lukes-expanded-terror-mission), by Luke83
+* [Expanded Terror](http://www.openxcom.com/mod/lukes-expanded-terror-mission), by Luke83 -
 Adds new city mapblocks.
 
-* [Luke's Extra UFOs](http://www.openxcom.com/mod/lukes-extra-ufos), by Luke83 and TurkishSwede
+* [Luke's Extra UFOs](http://www.openxcom.com/mod/lukes-extra-ufos), by Luke83 and TurkishSwede -
 Adds new UFO maps.
 
-* [MediGas](http://openxcom.org/forum/index.php?topic=2446), by Roxis231
+* [MediGas](http://openxcom.org/forum/index.php?topic=2446), by Roxis231 -
 Adds grenades to knock out aliens.
 
-* [Grav Armors](http://openxcom.org/forum/index.php?topic=2465), by Clownagent, Moriarty and Solarius Scorch
+* [Grav Armors](http://openxcom.org/forum/index.php?topic=2465), by Clownagent, Moriarty and Solarius Scorch -
 Adds new flying armours, as well as mechanics for repairing damaged armours.
 
-* [Tank.rul](), by Arpia
+* [Tank.rul](), by Arpia -
 (no link available)
 Adds more tank types.
 
-* [Firestorm Gfx](http://openxcom.org/forum/index.php?topic=1435.0), by Tyran_Nick
+* [Firestorm Gfx](http://openxcom.org/forum/index.php?topic=1435.0), by Tyran_Nick -
 Changes the Firestorm picture.
 
-* [Hazmat Armour](http://www.openxcom.com/mod/hazmat-armour), by Solarius Scorch
+* [Hazmat Armour](http://www.openxcom.com/mod/hazmat-armour), by Solarius Scorch -
 Adds a fireproof armour.
 
-* [Expanded U_Base](http://www.openxcom.com/mod/expanded-ubase), by Luke83
+* [Expanded U_Base](http://www.openxcom.com/mod/expanded-ubase), by Luke83 -
 Adds new alien base blocks.
 
-* [Elerium Bomb](http://openxcom.org/forum/index.php?topic=2561.0), by Fatrat
+* [Elerium Bomb](http://openxcom.org/forum/index.php?topic=2561.0), by Fatrat -
 Adds new ammo type for the Small Launcher.
 
-* [Armoured Vest](http://www.openxcom.com/mod/armored-vest), by Robin (reskinned after Ryskeliini)
+* [Armoured Vest](http://www.openxcom.com/mod/armored-vest), by Robin (reskinned after Ryskeliini) -
 Adds a buyable starting armour.
 
-* [Ironfist Dropship](http://www.openxcom.com/mod/ironfist-dropship), by Solarius Scorch
+* [Ironfist Dropship](http://www.openxcom.com/mod/ironfist-dropship), by Solarius Scorch -
 Adds a new troop transporter.
 
-* [Tactical Lightning](http://openxcom.org/forum/index.php?topic=2634.0), by x60mmx
+* [Tactical Lightning](http://openxcom.org/forum/index.php?topic=2634.0), by x60mmx -
 Makes the Lightning a bit more useful.
 
-* [Improved Living Quarters](http://openxcom.org/forum/index.php?topic=2806.0), by Dioxine
+* [Improved Living Quarters](http://openxcom.org/forum/index.php?topic=2806.0), by Dioxine -
 Adds bathrooms to Living Quarters and a new, large type of Living Quarters.
 
-* [Alloy Sword](http://openxcom.org/forum/index.php?topic=2819.0), by NeoWorm
+* [Alloy Sword](http://openxcom.org/forum/index.php?topic=2819.0), by NeoWorm -
 Adds a new melee weapon.
 
-* [Break 2 Elerium](http://openxcom.org/forum/index.php?topic=2055.0), by Falko
+* [Break 2 Elerium](http://openxcom.org/forum/index.php?topic=2055.0), by Falko -
 Enables disassembling alien clips and explosives for Elerium.
 
-* [Improved HandObs Pack v.1.1](http://www.openxcom.com/mod/improved-hand-objects), by Ivan Dogovich
+* [Improved HandObs Pack v.1.1](http://www.openxcom.com/mod/improved-hand-objects), by Ivan Dogovich -
 Adds hand objects for many vanilla items.
 
-* [Grenade Handobs](http://www.openxcom.com/mod/grenade-handobs-blue-smoke-grenades), by CryptoCactus
+* [Grenade Handobs](http://www.openxcom.com/mod/grenade-handobs-blue-smoke-grenades), by CryptoCactus -
 Adds hand objects for Alien Grenade and Proximity Grenade.
 
-* [Toxi-Suit](http://www.openxcom.com/mod/chemical-thrower-toxi-suit), by trollworkout
+* [Toxi-Suit](http://www.openxcom.com/mod/chemical-thrower-toxi-suit), by trollworkout -
 Adds a Toxi-Suit.
 
-* [AWACS](http://www.openxcom.com/mod/awacs-aircraft), by redv
+* [AWACS](http://www.openxcom.com/mod/awacs-aircraft), by redv -
 Adds three radar aircraft.
 
-* [Plasma Melee Weapons](http://www.openxcom.com/mod/plasma-melee-weapons), by pWWWa
+* [Plasma Melee Weapons](http://www.openxcom.com/mod/plasma-melee-weapons), by pWWWa -
 Adds a plasma knife and a plasma sword.
 
-* [Commendations](http://www.openxcom.com/mod/commendations-ufopedia-mod), by Shoes & Ivan Dogovich
+* [Commendations](http://www.openxcom.com/mod/commendations-ufopedia-mod), by Shoes & Ivan Dogovich -
 Adds medals and decorations that are awarded to X-Com soldiers based on performance.
 
-* [Extra Battlerships](http://www.openxcom.com/mod/extra-battleships), by Cooper aka Jotai
+* [Extra Battlerships](http://www.openxcom.com/mod/extra-battleships), by Cooper aka Jotai -
 Adds new alien Battleship maps.
 
 * And various graphic assets from various talented people, most notably:
