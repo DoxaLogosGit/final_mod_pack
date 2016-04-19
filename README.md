@@ -30,6 +30,10 @@ compatibility.  For now, mostly the text files for rulesets and metadata are com
 #### HOW DO I GET THE WHOLE MOD, SINCE IT'S NOT ALL ON GITHUB?
 You get it from the OpenXcom mod site located [here](http://www.openxcom.com/mod/final-mod-pack)
 
+### WHAT LICENSE IS FMP UNDER?
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
+or see the LICENSE file.
+
 #### HOW DO I INSTALL THIS MOD?
 - Open your "user" folder (normally Documents/MyGames/Openxcom or Documents/Openxcom, though it can be set up differently),
 - Copy the entire Final Mod Pack folder to the "/mods" folder,
