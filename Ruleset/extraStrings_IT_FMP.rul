@@ -1,0 +1,174 @@
+﻿extraStrings:
+  - type: it-IT
+    strings:
+      STR_MEDAL_ALIEN_BASE_ASSAULT_DESCRIPTION: Data ad un soldato che ha fatto parte di un incursione ad una base aliena che ha avuto successo.
+      STR_MEDAL_ALIEN_BASE_ASSAULT_NAME: Croce Terrestre
+      STR_MEDAL_AWARD_LEVEL: Livello di Riconoscimento
+      STR_MEDAL_BLACK_CROSS_DESCRIPTION: Data ad un soldato sopravvissuto a del fuoco amico.
+      STR_MEDAL_BLACK_CROSS_NAME: Croce Nera
+      STR_MEDAL_BOLTS_CROSS_DESCRIPTION: Data ad un soldato che usato una forza non letale per abbattere un obiettivo importante.
+      STR_MEDAL_BOLTS_CROSS_NAME: Croce del Fulmine
+      STR_MEDAL_CAMPAIGN_MEDAL_DESCRIPTION: Data ad un soldato che ha difeso con successo varie regioni.
+      STR_MEDAL_CAMPAIGN_MEDAL_NAME: Medaglia della Campagna
+      STR_MEDAL_CAMPAIGN_RIBBON_DESCRIPTION: "Data ad un soldato che è stato importante nella protezione di {0}"
+      STR_MEDAL_CAMPAIGN_RIBBON_NAME: "Nastro della Campagna in {0}"
+      STR_MEDAL_CRIMSON_HEART_DESCRIPTION: Data ad un soldato che è rimasto ferito per un lungo periodo di tempo.
+      STR_MEDAL_CRIMSON_HEART_NAME: Cuore Cremisi
+      STR_MEDAL_DBLKILL_TMPDESCRIPTION: "Data ad un soldato che ha agito mirabilmente sul campo di battaglia, uccidendo più di una minaccia ostile in breve successione."
+      STR_MEDAL_DBLKILL_TMPNAME: Citazione per le Prestazioni
+      STR_MEDAL_DECOR_LEVEL: Livello di Decorazione
+      STR_MEDAL_DEFENDER_MEDAL_DESCRIPTION: Data ad un soldato che ha fatto parte di una missione di difesa di una base che ha avuto successo.
+      STR_MEDAL_DEFENDER_MEDAL_NAME: Medaglia alla Difesa
+      STR_MEDAL_DESCRIPTION: Descrizione
+      STR_MEDAL_DISTINGUISHED_SERVICE_DESCRIPTION: Data ad un soldato che ha ucciso soldati alieni di tutti i tipi.
+      STR_MEDAL_DISTINGUISHED_SERVICE_NAME: Ordine del Martello
+      STR_MEDAL_FALLEN_DESCRIPTION: Data ad un soldato per onorare la sua morte ed il suo impegno nella difesa della Terra.
+      STR_MEDAL_FALLEN_NAME: "L'Ordine dei Caduti."
+      STR_MEDAL_GRENADIERS_MEDAL_DESCRIPTION: Data ad un soldato che ha lanciato un esplosivo uccidendo 3 alieni in una volta.
+      STR_MEDAL_GRENADIERS_MEDAL_NAME: Medaglia dei Granatieri.
+      STR_MEDAL_HELLRAISER_MEDAL_DESCRIPTION: Data ad un soldato che ha usato armi incendiarie per uccidere degli alieni.
+      STR_MEDAL_HELLRAISER_MEDAL_NAME: "Stella dell'Inferno."
+      STR_MEDAL_HONOR_CROSS_DESCRIPTION: "Data a tutti i soldati di ritorno come riconoscimento per aver combattuto la minaccia Aliena, e per esser stati parte della forza per salvare l'umanità. Questa Medaglia non ha decorazioni aggiuntive."
+      STR_MEDAL_HONOR_CROSS_NAME: "Croce dell'Onore"
+      STR_MEDAL_IRON_MAN_DESCRIPTION: "Data ad un soldato che è veramente un Uomo d'Acciaio, o una Donna d'Acciaio."
+      STR_MEDAL_IRON_MAN_NAME: Iron Man
+      STR_MEDAL_LONGEST_NIGHT_DESCRIPTION: Data ad un soldato che ha assistito agli orrori delle missioni di terrore aliene di notte.
+      STR_MEDAL_LONGEST_NIGHT_NAME: Nastro della Notte più Lunga
+      STR_MEDAL_LUCKYSHOT_TMPDESCRIPTION: "Data ad un soldato che ha vinto le probabilità, mandando a segno un imprevedibile colpo ad un altro bersaglio."
+      STR_MEDAL_LUCKYSHOT_TMPNAME: Citazione per la Buona Fortuna
+      STR_MEDAL_MAN_OF_STEEL_DESCRIPTION: Data ad un soldato che è stato colpito varie volte durante una sola missione.
+      STR_MEDAL_MAN_OF_STEEL_NAME: "Uomo d'Acciaio."
+      STR_MEDAL_MEDAL_OF_HEROISM_DESCRIPTION: "Data ad un soldato che ha combattuto fino all'ultimo respiro."
+      STR_MEDAL_MEDAL_OF_HEROISM_NAME: "Medaglia all'Eroismo"
+      STR_MEDAL_MERIT_STAR_DESCRIPTION: Data ad un soldato che ha ucciso molti alieni.
+      STR_MEDAL_MERIT_STAR_NAME: Stella al Merito.
+      STR_MEDAL_MILITARY_CROSS_DESCRIPTION: Data ad un soldato che ha partecipato a molte missioni.
+      STR_MEDAL_MILITARY_CROSS_NAME: Croce Militare
+      STR_MEDAL_NAME: Nome della Medaglia
+      STR_MEDAL_NIKE_CROSS_DESCRIPTION: Data ad un soldato che ha ucciso da solo tutti gli alieni durante una missione.
+      STR_MEDAL_NIKE_CROSS_NAME: Croce di Nike
+      STR_MEDAL_MERCY_CROSS_DESCRIPTION: Data ad un soldato che ha ucciso da solo tutti gli alieni durante una missione.
+      STR_MEDAL_MERCY_CROSS_NAME: Croce di Nike
+      STR_MEDAL_ORDER_OF_EARTH_DESCRIPTION: Data ad un soldato che è stato importante nella difesa della Terra
+      STR_MEDAL_ORDER_OF_EARTH_NAME: "L'Ordine della Terra"
+      STR_MEDAL_ORDER_OF_GLORY_DESCRIPTION: Data ad un soldato che è stato importante nella riuscita di una missione.
+      STR_MEDAL_ORDER_OF_GLORY_NAME: "L'Ordine della Gloria"
+      STR_MEDAL_ORDER_OF_RESTRAINT_DESCRIPTION: Data ad un soldato che ha usato una forza non letale per abbattere vari nemici.
+      STR_MEDAL_ORDER_OF_RESTRAINT_NAME: "L'Ordine del Contenimento"
+      STR_MEDAL_PURPLE_HEART_DESCRIPTION: Data ad un soldato che è stato ferito sul campo di battaglia.
+      STR_MEDAL_PURPLE_HEART_NAME: Cuore Viola
+      STR_MEDAL_REACTIONFIRE_TMPDESCRIPTION: "Data ad un soldato che ha dimostrato riflessi pronti, uccidendo degli alieni prima che potessero rivalersi."
+      STR_MEDAL_REACTIONFIRE_TMPNAME: Citazione alla Rapidità
+      STR_MEDAL_SERVICE_MEDAL_DESCRIPTION: Data ad un soldato che ha prestato servizio per vari mesi.
+      STR_MEDAL_SERVICE_MEDAL_NAME: Medaglia al Servizio
+      STR_MEDAL_SNIPER_TMPDESCRIPTION: Data ad un soldato che ha mandato a segno un colpo a grande distanza sul bersaglio designato.
+      STR_MEDAL_SNIPER_TMPNAME: Citazione per il Tiratore Scelto
+      STR_MEDAL_SPECIALISTS_MEDAL_DESCRIPTION: Data ad un soldato che ha usato forze non letali per controllare vari alieni con successo.
+      STR_MEDAL_SPECIALISTS_MEDAL_NAME: Medaglia dello Specialista
+      STR_MEDAL_STAR_OF_ASCLEPIUS_DESCRIPTION: Data ad un soldato che è stato sottoposto al fuoco nemico dalla minaccia aliena.
+      STR_MEDAL_STAR_OF_ASCLEPIUS_NAME: Stella di Asclepio
+      STR_MEDAL_STAR_OF_VALOR_DESCRIPTION: "Data ad un soldato che è stato l'ultimo sopravvissuto di una missione."
+      STR_MEDAL_STAR_OF_VALOR_NAME: Stella al Valore
+      STR_MEDAL_TRAP_DESCRIPTION: Data ad un soldato per aver usato le tattiche di guerriglia.
+      STR_MEDAL_TRAP_NAME: Croce del Predatore
+      STR_MEDAL_VALIANT_CRUX_DESCRIPTION: Data ad un soldato che ha protetto tutti i civili durante una missione del terrore.
+      STR_MEDAL_VALIANT_CRUX_NAME: Il Punto Cruciale
+      STR_MEDAL_WEAPON_PROFICIENCY_DESCRIPTION: "Data ad un soldato che ha dimostrato una differenza usando un {0}"
+      STR_MEDAL_WEAPON_PROFICIENCY_NAME: ""
+      STR_MEDAL_XENOCIDE_MEDAL_DESCRIPTION: "Data ad un soldato che ha combattuto con successo la minaccia dei {0}"
+      STR_MEDAL_XENOCIDE_MEDAL_NAME: "Medaglia allo Xenocidio dei {0}"
+      STR_ARMORED_VEST: "Giubba Corazzata"
+      STR_ARMORED_VEST_UC: "GIUBBA CORAZZATA"
+      STR_XCOM4_CORPSE: "Cadavere"
+      STR_ARMORED_VEST_UFOPEDIA: "Veste Balistica in ceramica, offre protezione contro proiettili ed esplosioni."
+      STR_MIB: "Men In Black"
+      STR_MIBTANK: "MiB HWP"
+      STR_MIB_SOLDIER: "MiB Agente"
+      STR_MIB_NAVIGATOR: "MiB Soldato"
+      STR_MIB_MEDIC: "MiB Medico"
+      STR_MIB_ENGINEER: "MiB Demoman"
+      STR_MIB_LEADER: "MiB Leader"
+      STR_MIB_COMMANDER: "MiB Comandante"
+      STR_MIBTANK_TERRORIST: "Carro Armato MiB"
+      STR_MIB0_CORPSE: "MiB Cadavere"
+      STR_MIB1_CORPSE: "MiB Cadavere"
+      STR_MIB2_CORPSE: "MiB Cadavere"
+      STR_MIB3_CORPSE: "MiB Cadavere"
+      STR_MIB4_CORPSE: "MiB Cadavere"
+      STR_MIB5_CORPSE: "MiB Cadavere"
+      STR_MIBTANK_CORPSE: "Rottame di Carro Armato"
+      STR_SNIPER_RIFLE: "Fucile da Cecchino"
+      STR_SNIPER_RIFLE_CLIP: "Caricatore Fucile da Cecchino"
+      STR_SNIPER_RIFLE_UFOPEDIA: "Fucile progettato per massimizzare la precisione di tiro. Abbina anche cartucce di grosso calibro per rendere i suoi colpi estremamente efficaci."
+      STR_MIB_TERROR_MISSION: "MiB Seminano Panico"
+      STR_MIB_BASE_LANDING: "MiB Base Mission"
+      STR_MIB_BASE_ASSAULT: "MiB Base Assault"
+      STR_MIB_COVERUP: "Insabbiamento"
+      STR_MIB_TERROR: "Seminare Panico"
+      STR_MIB_BASE: "Base MiB"
+      STR_MIB_ACTIVITY: "Operazioni dei Men In Black"
+      STR_MIB_IDENTITY: "Men In Black"
+      STR_MIB_ACTIVITY_UFOPEDIA: "Questa organizzazione, come la XCom, dispone di tecnologie avanzate ed interviene quando si verificano incidenti riguardanti gli alieni. Tuttavia sembra essere maggiormente preoccupata a celare la loro presenza piuttosto che a combatterli. Dobbiamo catturare uno dei loro leader per avere maggiori informazioni."
+      STR_MIB_IDENTITY_UFOPEDIA: "MiB e XCom sono due facce della stessa moneta. Entrambe sono state fondate dalle elite mondiali, ma mentre XCom ha come scopo la lotta contro gli invasori, i MiB hanno come scopo lo stabilire una fruttuosa collaborazione. Sembra proprio che i governatori del mondo abbiano voluto mantenere aperte le loro opzioni."
+      STR_GAZER: "Gazer"
+      STR_HOLODRONE: "Holodrone"
+      STR_HOLODRONE_TERRORIST: "Holodrone Terrorista"
+      STR_GAZER_SOLDIER: "Gazer Soldato"
+      STR_GAZER_MEDIC: "Gazer Medico"
+      STR_GAZER_ENGINEER: "Gazer Ignegnere"
+      STR_GAZER_NAVIGATOR: "Gazer Navigatore"
+      STR_GAZER_LEADER: "Gazer Capitano"
+      STR_GAZER_COMMANDER: "Gazer Comandante"
+      STR_GAZER_CORPSE: "Cadavere di Gazer"
+      STR_HOLODRONE_CORPSE: "Cadavere di Holodrone"
+      STR_GAZER_AUTOPSY: "Autopsia di Gazer"
+      STR_HOLODRONE_AUTOPSY: "Autopsia di Holodrone"
+      STR_WASPITE: "Waspite"
+      STR_CYBERMITE: "Cybermite"
+      STR_CYBERMITE_TERRORIST: "Cybermite Terrorista"
+      STR_WASPITE_SOLDIER: "Waspite Soldato"
+      STR_WASPITE_MEDIC: "Waspite Medico"
+      STR_WASPITE_ENGINEER: "Waspite Ignegnere"
+      STR_WASPITE_NAVIGATOR: "Waspite Navigatore"
+      STR_WASPITE_LEADER: "Waspite Capitano"
+      STR_WASPITE_COMMANDER: "Waspite Comandante"
+      STR_WASPITE_CORPSE: "Cadavere di Waspite"
+      STR_CYBERMITE_CORPSE: "Cadavere di Cybermite"
+      STR_WASPITE_AUTOPSY: "Autopsia di Waspite"
+      STR_CYBERMITE_AUTOPSY: "Autopsia di Cybermite"
+      STR_WASPITE_UFOPEDIA: "I Waspite sono combattenti e terroristi scelti. Sono molto aggressivi, geneticamente ingegnerizzati e ciberneticamente potenziati, risultando pertanto formidabili avversari. Tuttavia la fragile costituzione indica tuttavia indica un ruolo di artiglieria. Il marchingegno a spirale che costituisce il loro corpi genera un campo anti-gravitazionale, permettendo loro di fluttuare."
+      STR_WASPITE_AUTOPSY_UFOPEDIA: "Questa creatura ha una anatomia che quasi assurda. Il corpo consiste in un sistema di supporto vitale a forma di spirale, combinato con una pianta simbiotica. Innestati sul corpo vi sono una paio di braccia meccaniche ed una testa insettoide, presumibilmente l'unica parte restante della creatura originale. La parte vegetale del corpo brucia facilmente."
+      STR_CYBERMITE_UFOPEDIA: "Questo mini-robot rappresenta il meglio della tecnologia cibernetica aliena. Si tratta di un agente di terrorismo automatizzato. Non appena il suo potente sensore ottico avvista un bersaglio, esso si precipita verso di esso e lo attacca. Il nocciolo di elerio che lo alimenta esplode quando sufficientemente danneggiato, quindi la sua eliminazione va fatta a distanza di sicurezza."
+      STR_CYBERMITE_AUTOPSY_UFOPEDIA: "La peculiare caratteristica di questo robot incredibilmente complesso, consiste nella sua arma, un pungiglione di lega aliena che č collegato ad un serbatoio presumibilmente riempito di una potente tossina. La fonte di alimentazione ha subito troppo danni per essere compresa, ma sembra essere progettata per esplodere se danneggiata."
+      STR_GAZER_UFOPEDIA: "I Gazer sommigliano a delle tartarughe e sono certamente robusti come sembrano. La loro massiccia armatura garantisce formitabile resistenza contro i colpi di ogni tipo, particolarmente perforanti e plasma."
+      STR_GAZER_AUTOPSY_UFOPEDIA: "La prominente caratteristica anatomica consiste nel mono-occhio centrale; ha tratti dei crostacei ma una struttura molto maggiormenete voluta. La molto spessa armatura si innesta direttamente al corpo della creatura tramite impianti cibernetici, si tratta di un vero e proprio guscio."
+      STR_HOLODRONE_UFOPEDIA: "Gli Holodrone sono fluttuanti armi di artiglieria viventi. Sono protetti da una bolla di plasma che interferisce con gli attacchi di plasma e di fuoco. Presumibilmente sono stati sviluppati specificamente per affronntare nemici armati di armi al plasma. Il meccanismo prduce troppo calore e radiazioni per poterlo applicare ai nostri soldati."
+      STR_HOLODRONE_AUTOPSY_UFOPEDIA: "Un automa molto complesso, alimentato da un voluminoso, per la sua stazza, nucleo di elerio. Due staffe si allungano dal nucleo e sono usate per spandare la bolla di plasma che avvolge la creatura. Risulta inoltre evidente come il nucleo possa sovraccaricarsi di energia per generare un potente raggio laser."
+      STR_ELERIUM_BOMB: "Bomba all'Elerium"
+      STR_ELERIUM_BOMB_UFOPEDIA: "Bomba ad Elerium, usata maggiormente dai terroristi alieni, è una bomba potente e letale da usare con un lancia bombe."
+      STR_PLASMA_BLASTER: "Plasma Blaster"
+      STR_PLASMA_BLASTER_CLIP: "Caricatore per Plasma Blaseter"
+      STR_PLASMA_BLASTER_CLIP_UFOPEDIA: "Questo piccolo dispositivo è usato come munizione per il Plasma Blaster. Contiene piccole quantità d'Elerium."
+      STR_PLASMA_BLASTER_UFOPEDIA: "Questa devastante arma anti-corazza basata sulla tecnologia al plasma vaporizza qualsiasi cosa attorno il punto d'impatto."
+      STR_PLASMA_CASTER: "Plasma Caster"
+      STR_PLASMA_CASTER_CLIP: "Caricatore per Plasma Caster"
+      STR_PLASMA_CASTER_CLIP_UFOPEDIA: "Questo dispositivo vagamente cubico è usato come munizione per il Plasma Caster. Contiene piccole quantità d'Elerium."
+      STR_PLASMA_CASTER_UFOPEDIA: "Questa variante della Pistola al Plasma spara un ampio raggio di particelle cariche, rendendola un'arma devastante."
+      STR_PLASMA_SNIPER_RIFLE: "Fucile di Precisione al Plasma"
+      STR_PLASMA_SNIPER_RIFLE_CLIP: "Caricatore per Fucile di Precisione al Plasma"
+      STR_PLASMA_SNIPER_RIFLE_CLIP_UFOPEDIA: "Questo piccolo oggetto è usato come sorgente d'energia per il Fucile di Precisione al Plasma, un'arma di precisione aliena. Contiene una piccola quantità d'Elerium."
+      STR_PLASMA_SNIPER_RIFLE_UFOPEDIA: "Questa è un'arma estremamente potente e precisa basata sull'accelerazione di particelle all'interno di un piccolo campo di anti-gravità."
+      STR_SMALL_LAUNCHER_UFOPEDIA: "Lanciagranate alieno compatto ma potente, utile in una gran varietà di combattimenti. Arma versatile e letale."
+      STR_TOXIGUN: "Toxigun"
+      STR_TOXIGUN_FLASK: "Fiasca per Toxigun"
+      STR_TOXIGUN_FLASK_UFOPEDIA: "Questa piccola fiasca piena di un potente acido funziona come munizione per la Toxigun"
+      STR_TOXIGUN_UFOPEDIA: "Quest'arma spruzza una complessa mistura di potenti agenti chimici, capaci di dissolvere praticamente ogni materiale conosciuto dalla scienza Terrestre, fino a qualche secondo fa. Naturalmente, è letale per tutti gli esseri viventi."
+      STR_EXCAVATOR: "Escavatore"
+      STR_EXCAVATOR_UFOPEDIA: "Gli Escavatori sono piccoli UFO principalmente usati per lavori di scavi e costruzione. Non rappresentano una vera minaccia per i nostri veicoli."
+      STR_FIGHTER_SHIP: "Caccia"
+      STR_FIGHTER_SHIP_UFOPEDIA: "I Caccia sono costruiti unicamente per distruggere i veicoli terrestri, inclusi i nostri Interceptor. Sono molto ben armati per la loro grandezza, ma non hanno un equipaggio numeroso."
+      STR_LAB_SHIP: "UFO Laboratorio"
+      STR_LAB_SHIP_UFOPEDIA: "Gli UFO Laboratorio sono grandi velivoli, scelti per le maggiori operazioni di ricerca e raccolto. Molto più grandi dei Raccoglitori, sono equipaggiati per condurre complessi esperimenti a bordo. Il loro equipaggio è numeroso e ben equipaggiato."
+      STR_SENTRY_SHIP: "UFO Sentinella"
+      STR_SENTRY_SHIP_UFOPEDIA: "Questo piccolo UFO è utilizzata per missioni di osservazione e pattugliamento. E' armata per la guerra e procurerà qualche problema ai nostri Interceptor."
+      STR_OPENXCOM: "Open X-Com: Final Mod Pack v. 1.9.8"

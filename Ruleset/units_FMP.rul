@@ -160,6 +160,28 @@
     deathSound: 41
     intelligence: 4
     aggression: 1
+  - type: STR_MIB_PSI_OPS
+    race: STR_MIB
+    rank: STR_LIVE_LEADER
+    stats:
+      tu: 70
+      stamina: 110
+      health: 45
+      bravery: 90
+      reactions: 58
+      firing: 64
+      throwing: 76
+      strength: 42
+      psiStrength: 55
+      psiSkill: 50
+      melee: 45
+    armor: MIB_PSI_OPS_ARMOR
+    standHeight: 22
+    kneelHeight: 14
+    value: 80
+    deathSound: 45
+    intelligence: 5
+    aggression: 2
   - type: STR_MIB_SECTOPOD_TERRORIST
     race: STR_MIB_SECTOPOD
     rank: STR_LIVE_TERRORIST

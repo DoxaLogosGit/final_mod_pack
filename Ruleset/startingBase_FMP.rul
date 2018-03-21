@@ -25,7 +25,7 @@
       x: 1
       y: 3
   crafts:
-    - type: STR_SKYRANGER
+    - type: STR_SKYRAIDER
       id: 1
       fuel: 1500
       damage: 0

@@ -43,4 +43,5 @@ soldiers:
     kneelHeight: 14
     femaleFrequency: 25
     soldierNames:
+      - delete
       - SoldierName/

@@ -38,3 +38,10 @@
     monthlyCost: 30000
     storage: 275
     mapName: XBASS_06
+  - type: STR_CORRIDOR
+    spriteShape: 3
+    spriteFacility: 317
+    buildCost: 75000
+    buildTime: 12
+    monthlyCost: 2000
+    mapName: XBASS_24

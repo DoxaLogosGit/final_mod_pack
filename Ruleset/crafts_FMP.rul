@@ -1,4 +1,28 @@
 ﻿crafts:
+  - type: STR_SKYRAIDER
+    sprite: 798
+    fuelMax: 1500
+    damageMax: 100
+    speedMax: 1140
+    accel: 3
+    soldiers: 10
+    vehicles: 1
+    costBuy: 300000
+    costRent: 300000
+    repairRate: 4
+    refuelRate: 50
+    transferTime: 72
+    score: 200
+    battlescapeTerrainData:
+      name: CUTERANGER
+      mapDataSets:
+        - BLANKS
+        - PLANE
+        - CRAFTBIT_GREY
+      mapBlocks:
+        - name: CUTERANGER
+          width: 10
+          length: 20
   - type: STR_AWACS
     sprite: 31
     fuelMax: 1500
@@ -165,7 +189,7 @@
       name: PLANE_X
       mapDataSets:
         - BLANKS
-        - PLANE_2
+        - PLANE_ALLOY
         - CRAFTBIT
         - AVENGER_NEW
       mapBlocks:

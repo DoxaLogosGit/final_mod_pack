@@ -68,7 +68,7 @@ commendations:
       killsWithCriteriaCareer: [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
     killCriteria:
       -
-        1: ["STATUS_DEAD", "FACTION_HOSTILE"]
+        - [1, ["STATUS_DEAD", "FACTION_HOSTILE"]]
   - type: STR_MEDAL_MILITARY_CROSS_NAME
     description: STR_MEDAL_MILITARY_CROSS_DESCRIPTION
     sprite: 1
@@ -81,7 +81,7 @@ commendations:
       killsWithCriteriaCareer: [4, 8, 12, 12, 12, 12, 16, 16, 16, 16]
     killCriteria:
       -
-        1: ["FACTION_HOSTILE", "STATUS_UNCONSCIOUS"]
+        - [1, ["FACTION_HOSTILE", "STATUS_UNCONSCIOUS"]]
   - type: STR_MEDAL_DEFENDER_MEDAL_NAME
     description: STR_MEDAL_DEFENDER_MEDAL_DESCRIPTION
     sprite: 3
@@ -129,7 +129,7 @@ commendations:
       killsWithCriteriaCareer: [5, 10, 15, 15, 15, 15, 20, 20, 20, 20]
     killCriteria:
       -
-        1: ["DT_IN", "FACTION_HOSTILE", "STATUS_DEAD"]
+        - [1, ["DT_IN", "FACTION_HOSTILE", "STATUS_DEAD"]]
   - type: STR_MEDAL_DISTINGUISHED_SERVICE_NAME
     description: STR_MEDAL_DISTINGUISHED_SERVICE_DESCRIPTION
     sprite: 12
@@ -137,17 +137,17 @@ commendations:
       killsWithCriteriaCareer: [1, 5, 10, 10, 10, 10, 15, 15, 15, 15]
     killCriteria:
       -
-        1: ["STR_SECTOID", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_FLOATER", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_SNAKEMAN", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_MUTON", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_ETHEREAL", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_CEREBREAL", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_CHTONITE", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_GAZER", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_WASPITE", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_REPTOID", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_ANTHROPOD", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
+        - [1, ["STR_SECTOID", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_FLOATER", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_SNAKEMAN", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_MUTON", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_ETHEREAL", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_CEREBREAL", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_CHTONITE", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_GAZER", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_WASPITE", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_REPTOID", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_ANTHROPOD", "STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
   - type: STR_MEDAL_BOLTS_CROSS_NAME
     description: STR_MEDAL_BOLTS_CROSS_DESCRIPTION
     sprite: 13
@@ -155,9 +155,9 @@ commendations:
       killsWithCriteriaCareer: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     killCriteria:
       -
-        1: ["STR_LIVE_COMMANDER", "FACTION_HOSTILE", "STATUS_UNCONSCIOUS"]
+        - [1, ["STR_LIVE_COMMANDER", "FACTION_HOSTILE", "STATUS_UNCONSCIOUS"]]
       -
-        1: ["STR_LIVE_LEADER", "FACTION_HOSTILE", "STATUS_UNCONSCIOUS"]
+        - [1, ["STR_LIVE_LEADER", "FACTION_HOSTILE", "STATUS_UNCONSCIOUS"]]
   - type: STR_MEDAL_GRENADIERS_MEDAL_NAME
     description: STR_MEDAL_GRENADIERS_MEDAL_DESCRIPTION
     sprite: 14
@@ -165,9 +165,9 @@ commendations:
       killsWithCriteriaTurn: [1, 2, 3, 3, 3, 3, 4, 4, 4, 4]
     killCriteria:
       -
-        3: ["FACTION_HOSTILE", "STATUS_DEAD", "BT_GRENADE"]
+        - [3, ["FACTION_HOSTILE", "STATUS_DEAD", "BT_GRENADE"]]
       -
-        3: ["FACTION_HOSTILE", "STATUS_DEAD", "BT_PROXIMITYGRENADE"]
+        - [3, ["FACTION_HOSTILE", "STATUS_DEAD", "BT_PROXIMITYGRENADE"]]
   - type: STR_MEDAL_STAR_OF_ASCLEPIUS_NAME
     description: STR_MEDAL_STAR_OF_ASCLEPIUS_DESCRIPTION
     sprite: 15
@@ -215,7 +215,7 @@ commendations:
       killsWithCriteriaTurn: [1, 2, 3, 3, 3, 3, 4, 4, 4, 4]
     killCriteria:
       -
-        2: ["STATUS_DEAD", "FACTION_HOSTILE"]
+        - [2, ["STATUS_DEAD", "FACTION_HOSTILE"]]
   - type: STR_MEDAL_REACTIONFIRE_TMPNAME
     description: STR_MEDAL_REACTIONFIRE_TMPDESCRIPTION
     sprite: 24
@@ -238,7 +238,7 @@ commendations:
       killsWithCriteriaMission: [1, 1, 2, 2, 2, 2, 3, 3, 3, 3]
     killCriteria:
       -
-        7: ["STATUS_DEAD", "FACTION_HOSTILE"]
+        - [7, ["STATUS_DEAD", "FACTION_HOSTILE"]]
   - type: STR_MEDAL_VALIANT_CRUX_NAME
     description: STR_MEDAL_VALIANT_CRUX_DESCRIPTION
     sprite: 28
@@ -271,11 +271,11 @@ commendations:
       killsWithCriteriaCareer: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     killCriteria:
       -
-        1: ["STR_SECTOPOD_TERRORIST", "STR_LIVE_TERRORIST", "STATUS_DEAD", "BT_GRENADE"]
+        - [1, ["STR_SECTOPOD_TERRORIST", "STR_LIVE_TERRORIST", "STATUS_DEAD", "BT_GRENADE"]]
       - 
-        1: ["STR_CYBERDISC_TERRORIST", "STR_LIVE_TERRORIST", "STATUS_DEAD", "BT_GRENADE"]
+        - [1, ["STR_CYBERDISC_TERRORIST", "STR_LIVE_TERRORIST", "STATUS_DEAD", "BT_GRENADE"]]
       - 
-        1: ["STR_OBLITERATOR_TERRORIST", "STR_LIVE_TERRORIST", "STATUS_DEAD", "BT_GRENADE"]
+        - [1, ["STR_OBLITERATOR_TERRORIST", "STR_LIVE_TERRORIST", "STATUS_DEAD", "BT_GRENADE"]]
   - type: STR_MEDAL_SECTOPOD_KILL_MEDAL_NAME
     description: STR_SECTOPOD_KILL_MEDAL_DESCRIPTION
     sprite: 34
@@ -283,7 +283,7 @@ commendations:
       killsWithCriteriaCareer: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     killCriteria:
       -
-        1: ["STR_SECTOPOD_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
+        - [1, ["STR_SECTOPOD_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
   - type: STR_MEDAL_MERCY_CROSS_NAME
     description: STR_MEDAL_MERCY_CROSS_DESCRIPTION
     sprite: 35
@@ -296,7 +296,7 @@ commendations:
       killsWithCriteriaCareer: [3, 6, 9, 9, 9, 9, 12, 12, 12, 12]
     killCriteria:
       -
-        1: ["BODYPART_HEAD", "FACTION_HOSTILE", "STATUS_DEAD"]
+        - [1, ["BODYPART_HEAD", "FACTION_HOSTILE", "STATUS_DEAD"]]
   - type: STR_MEDAL_REARSHOT_NAME
     description: STR_MEDAL_REARSHOT_DESCRIPTION
     sprite: 49
@@ -304,7 +304,7 @@ commendations:
       killsWithCriteriaCareer: [3, 6, 9, 9, 9, 9, 12, 12, 12, 12]
     killCriteria:
       -
-        1: ["SIDE_REAR", "FACTION_HOSTILE", "STATUS_DEAD"]
+        - [1, ["SIDE_REAR", "FACTION_HOSTILE", "STATUS_DEAD"]]
   - type: STR_MEDAL_FLANKSHOT_NAME
     description: STR_MEDAL_FLANKSHOT_DESCRIPTION
     sprite: 43
@@ -312,9 +312,9 @@ commendations:
       killsWithCriteriaCareer: [3, 6, 9, 9, 9, 9, 12, 12, 12, 12]
     killCriteria:
       -
-        1: ["SIDE_LEFT", "FACTION_HOSTILE", "STATUS_DEAD"]
+        - [1, ["SIDE_LEFT", "FACTION_HOSTILE", "STATUS_DEAD"]]
       -
-        1: ["SIDE_RIGHT", "FACTION_HOSTILE", "STATUS_DEAD"]
+        - [1, ["SIDE_RIGHT", "FACTION_HOSTILE", "STATUS_DEAD"]]
   - type: STR_MEDAL_HEALER_NAME
     description: STR_MEDAL_HEALER_DESCRIPTION
     sprite: 38
@@ -337,19 +337,19 @@ commendations:
       killsWithCriteriaCareer: [1, 2, 3, 3, 3, 3, 4, 4, 4, 4]
     killCriteria:
       -
-        1: ["STR_CYBERDISC", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_REAPER", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_CHRYSSALID", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_SILACOID", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_CELATID", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_SECTOPOD", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_OBLITERATOR", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_ZOMBIE", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_SALAMANDRON", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_HOLODRONE", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_CYBERMITE", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_SPITTER", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_CEREBREAL_LARVA", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
+        - [1, ["STR_CYBERDISC", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_REAPER", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_CHRYSSALID", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_SILACOID", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_CELATID", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_SECTOPOD", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_OBLITERATOR", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_ZOMBIE", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_SALAMANDRON", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_HOLODRONE", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_CYBERMITE", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_SPITTER", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_CEREBREAL_LARVA", "STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
   - type: STR_MEDAL_ALLBATTLETYPES_NAME
     description: STR_MEDAL_ALLBATTLETYPES_DESCRIPTION
     sprite: 40
@@ -357,10 +357,10 @@ commendations:
       killsWithCriteriaCareer: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     killCriteria:
       -
-        1: ["BT_FIREARM", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["BT_MELEE", "FACTION_HOSTILE", "STATUS_UNCONSCIOUS"]
-        1: ["BT_PROXIMITYGRENADE", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["BT_GRENADE", "FACTION_HOSTILE", "STATUS_DEAD"]
+        - [1, ["BT_FIREARM", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["BT_MELEE", "FACTION_HOSTILE", "STATUS_UNCONSCIOUS"]]
+        - [1, ["BT_PROXIMITYGRENADE", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["BT_GRENADE", "FACTION_HOSTILE", "STATUS_DEAD"]]
   - type: STR_MEDAL_NIGHTOPS_NAME
     description: STR_MEDAL_NIGHTOPS_DESCRIPTION
     sprite: 48
@@ -373,13 +373,13 @@ commendations:
       killsWithCriteriaCareer: [1, 2, 3, 3, 3, 3, 4, 4, 4, 4]
     killCriteria:
       -
-        1: ["STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_LIVE_ENGINEER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_LIVE_MEDIC", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_LIVE_NAVIGATOR", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_LIVE_LEADER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_LIVE_COMMANDER", "FACTION_HOSTILE", "STATUS_DEAD"]
-        1: ["STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]
+        - [1, ["STR_LIVE_SOLDIER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_LIVE_ENGINEER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_LIVE_MEDIC", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_LIVE_NAVIGATOR", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_LIVE_LEADER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_LIVE_COMMANDER", "FACTION_HOSTILE", "STATUS_DEAD"]]
+        - [1, ["STR_LIVE_TERRORIST", "FACTION_HOSTILE", "STATUS_DEAD"]]
   - type: STR_MEDAL_ORIGINAL8_NAME
     description: STR_MEDAL_ORIGINAL8_DESCRIPTION
     sprite: 50
@@ -443,7 +443,7 @@ commendations:
       killsWithCriteriaCareer: [1, 2, 3, 3, 3, 3, 4, 4, 4, 4]
     killCriteria:
       -
-        1: ["FACTION_HOSTILE", "STATUS_TURNING"]
+        - [1, ["FACTION_HOSTILE", "STATUS_TURNING"]]
   - type: STR_MEDAL_PSIPANIC_NAME
     description: STR_MEDAL_PSIPANIC_DESCRIPTION
     sprite: 00
@@ -451,7 +451,7 @@ commendations:
       killsWithCriteriaCareer: [1, 2, 3, 3, 3, 3, 4, 4, 4, 4]
     killCriteria:
       -
-        1: ["FACTION_HOSTILE", "STATUS_PANICKING"]
+        - [1, ["FACTION_HOSTILE", "STATUS_PANICKING"]]
   - type: STR_MEDAL_SLAVEKILLS_NAME
     description: STR_MEDAL_SLAVEKILLS_DESCRIPTION
     sprite: 00

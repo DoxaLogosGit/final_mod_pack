@@ -465,6 +465,46 @@
     armor: 30
     attraction: 10
     listOrder: 5561
+  - type: STR_PLASMA_SUB
+    requires:
+      - STR_PLASMA_SUB
+    size: 0.2
+    costSell: 90000
+    weight: 5
+    bigSprite: 254
+    floorSprite: 232
+    handSprite: 736
+    bulletSprite: 8
+    fireSound: 18
+    compatibleAmmo:
+      - STR_PLASMA_SUB_CLIP
+    accuracySnap: 75
+    tuSnap: 22
+    battleType: 1
+    twoHanded: true
+    invWidth: 1
+    invHeight: 3
+    recoveryPoints: 3
+    armor: 50
+    attraction: 10
+    listOrder: 5555
+  - type: STR_PLASMA_SUB_CLIP
+    requires:
+      - STR_PLASMA_SUB_CLIP
+    size: 0.05
+    costSell: 5200
+    weight: 3
+    bigSprite: 255
+    floorSprite: 33
+    handSprite: 632
+    hitSound: 19
+    hitAnimation: 46
+    power: 64
+    damageType: 5
+    clipSize: 22
+    battleType: 2
+    recoveryPoints: 1
+    listOrder: 5556
   - type: STR_STUN_BOMB
     handSprite: 656
     attraction: 10
@@ -517,6 +557,25 @@
     tuUse: 10
     flatRate: true
     attraction: 6
+  - type: STR_MIB_PSI_OPS_CORPSE
+    name: STR_CORPSE
+    size: 0.4
+    costSell: 1000
+    weight: 32
+    bigSprite: 256
+    floorSprite: 233
+    invWidth: 2
+    invHeight: 3
+    recoveryPoints: 1
+    battleType: 11
+    armor: 30
+    recover: false
+  - type: STR_MIB_PSI_OPS
+    size: 0.0
+    recover: true
+    liveAlien: true
+    costSell: 25000
+    listOrder: 14606
   - type: STR_MIB_HEAVY_TROOPER
     size: 0.0
     recover: true
@@ -870,9 +929,9 @@
     accuracyAimed: 160
     tuSnap: 28
     tuAimed: 65
-    snapRange: 4
-    aimRange: 4
-    dropoff: 4
+    aimRange: 14
+    snapRange: 8
+    dropoff: 6
     battleType: 1
     twoHanded: true
     invWidth: 1
@@ -913,6 +972,7 @@
     tuSnap: 20
     tuAimed: 30
     battleType: 1
+    twoHanded: false
     invWidth: 1
     invHeight: 1
     attraction: 8
@@ -2086,6 +2146,17 @@
     invHeight: 3
     recover: false
     autoShots: 6
+  - type: STR_SECTOID_COMMANDER_CORPSE
+    size: 0.4
+    costSell: 20000
+    weight: 30
+    bigSprite: 253
+    floorSprite: 42
+    invWidth: 2
+    invHeight: 3
+    recoveryPoints: 5
+    battleType: 11
+    armor: 26
   - type: STR_SECTOID_GUARDIAN
     size: 0.0
     recover: true
@@ -2759,7 +2830,7 @@
     bigSprite: -1
     floorSprite: 12
     hitSound: 66
-    hitAnimation: 26
+    hitAnimation: 96
     power: 140
     damageType: 1
     clipSize: 60
@@ -3246,6 +3317,7 @@
     tuMelee: 30
     battleType: 3
     twoHanded: true
+    clipSize: -1
     invWidth: 1
     invHeight: 3
     armor: 20
@@ -3485,13 +3557,13 @@
     hitAnimation: 36
     power: 30
     damageType: 4
-    accuracySnap: 110
-    accuracyAimed: 150
+    accuracySnap: 90
+    accuracyAimed: 125
     tuSnap: 30
     tuAimed: 70
-    snapRange: 4
-    aimRange: 4
-    dropoff: 4
+    aimRange: 14
+    snapRange: 8
+    dropoff: 6
     clipSize: -1
     shotgunPellets: 6
     battleType: 1
@@ -3795,8 +3867,8 @@
       - STR_GAUSS_PISTOL_CLIP
     accuracySnap: 52
     accuracyAimed: 72
-    tuSnap: 30
-    tuAimed: 55
+    tuSnap: 22
+    tuAimed: 35
     battleType: 1
     twoHanded: false
     invWidth: 1
@@ -3976,10 +4048,10 @@
     bigSprite: 218
     floorSprite: 196
     hitSound: 66
-    hitAnimation: 26
+    hitAnimation: 96
     power: 80
     damageType: 1
-    clipSize: 9
+    clipSize: 6
     battleType: 2
     armor: 30
     attraction: 9
@@ -4022,10 +4094,10 @@
     bigSprite: 217
     floorSprite: 196
     hitSound: 66
-    hitAnimation: 26
+    hitAnimation: 96
     power: 100
     damageType: 1
-    clipSize: 27
+    clipSize: 18
     battleType: 2
     armor: 30
     attraction: 9
@@ -4068,10 +4140,10 @@
     bigSprite: 216
     floorSprite: 196
     hitSound: 66
-    hitAnimation: 26
+    hitAnimation: 96
     power: 135
     damageType: 1
-    clipSize: 32
+    clipSize: 21
     battleType: 2
     armor: 30
     attraction: 9
@@ -4114,10 +4186,10 @@
     bigSprite: 219
     floorSprite: 197
     hitSound: 66
-    hitAnimation: 26
+    hitAnimation: 96
     power: 150
     damageType: 1
-    clipSize: 48
+    clipSize: 32
     battleType: 2
     armor: 30
     invWidth: 2
@@ -4264,13 +4336,13 @@
       - STR_SHOTGUN_SHELLS_AP
       - STR_SHOTGUN_AA_SHELLS_AP
       - STR_SHOTGUN_AA_SHELLS
-    accuracySnap: 130
-    accuracyAimed: 175
+    accuracySnap: 135
+    accuracyAimed: 155
     tuSnap: 28
     tuAimed: 65
-    snapRange: 4
-    aimRange: 4
-    dropoff: 4
+    aimRange: 14
+    snapRange: 8
+    dropoff: 6
     battleType: 1
     twoHanded: true
     invWidth: 1

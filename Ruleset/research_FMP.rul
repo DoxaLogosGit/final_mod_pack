@@ -2,6 +2,10 @@
   - delete: STR_LASER_PISTOL
   - delete: STR_LASER_RIFLE
   - delete: STR_HEAVY_LASER
+  - name: STR_OBLITERATOR
+    cost: 0
+    points: 50
+    needItem: true
   - name: STR_OBLITERATOR_AUTOPSY
     cost: 0
     points: 50
@@ -11,6 +15,7 @@
     points: 50
     lookup: STR_OBLITERATOR
     needItem: true
+    destroyItem: true
     listOrder: 10380
   - name: STR_OBLITERATOR_CORPSE
     cost: 180
@@ -226,6 +231,7 @@
     points: 50
     lookup: STR_SECTOPOD
     needItem: true
+    destroyItem: true
     listOrder: 9348
   - name: STR_ADVANCED_ROCKET_LAUNCHER
     cost: 100
@@ -412,12 +418,14 @@
     points: 50
     lookup: STR_HYBRID
     needItem: true
+    destroyItem: true
     listOrder: 6270
   - name: STR_HYBRID_NAVIGATOR
     cost: 192
     points: 50
     lookup: STR_HYBRID
     needItem: true
+    destroyItem: true
     getOneFree:
       - STR_ALIEN_RESEARCH
       - STR_ALIEN_HARVEST
@@ -433,6 +441,7 @@
     points: 50
     lookup: STR_HYBRID
     needItem: true
+    destroyItem: true
     getOneFree:
       - STR_SECTOID
       - STR_SECTOID_CORPSE
@@ -446,6 +455,7 @@
     points: 50
     lookup: STR_HYBRID
     needItem: true
+    destroyItem: true
     getOneFree:
       - STR_SMALL_SCOUT
       - STR_MEDIUM_SCOUT
@@ -458,6 +468,7 @@
     points: 50
     lookup: STR_ALIEN_DRONE
     needItem: true
+    destroyItem: true
     listOrder: 9350
   - name: STR_ALIEN_DRONE
     cost: 0
@@ -509,6 +520,7 @@
     cost: 50
     points: 20
     needItem: true
+    destroyItem: true
     dependencies:
       - STR_ALIEN_CODES
       - STR_ALIEN_ELECTRONICS
@@ -533,18 +545,21 @@
     cost: 180
     points: 30
     needItem: true
+    destroyItem: true
     listOrder: 9340
   - name: STR_MIB_NAVIGATOR
     lookup: STR_MIB_ACTIVITY
     cost: 180
     points: 30
     needItem: true
+    destroyItem: true
     listOrder: 9343
   - name: STR_MIB_MEDIC
     lookup: STR_MIB_ACTIVITY
     cost: 180
     points: 30
     needItem: true
+    destroyItem: true
     getOneFree:
       - STR_SECTOID
       - STR_FLOATER
@@ -558,12 +573,14 @@
     cost: 180
     points: 30
     needItem: true
+    destroyItem: true
     listOrder: 9341
   - name: STR_MIB_LEADER
     lookup: STR_MIB_IDENTITY
     cost: 192
     points: 50
     needItem: true
+    destroyItem: true
     getOneFree:
       - STR_SECTOID
       - STR_HYBRID
@@ -573,6 +590,7 @@
     cost: 192
     points: 50
     needItem: true
+    destroyItem: true
     getOneFree:
       - STR_SECTOID
       - STR_FLOATER
@@ -581,6 +599,18 @@
       - STR_MEDIUM_SCOUT
       - STR_LARGE_SCOUT
     listOrder: 9347
+  - name: STR_MIB_PSI_OPS
+    cost: 192
+    points: 50
+    lookup: STR_MIB_IDENTITY
+    needItem: true
+    destroyItem: true
+    unlocks:
+      - STR_PSIONICS_PREREQUISITE1
+    getOneFree:
+      - STR_SECTOID
+      - STR_HYBRID
+    listOrder: 9348
   - name: STR_MIB0_CORPSE
     lookup: STR_MIB_AUTOPSY
     points: 0
@@ -728,6 +758,7 @@
     cost: 110
     points: 50
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
     listOrder: 9912
@@ -735,6 +766,7 @@
     cost: 110
     points: 50
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
     listOrder: 9910
@@ -743,6 +775,7 @@
     points: 50
     lookup: STR_CEREBREAL_LARVA
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
     listOrder: 9916
@@ -751,6 +784,7 @@
     points: 50
     lookup: STR_HOLODRONE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
     listOrder: 9909
@@ -759,6 +793,7 @@
     points: 50
     lookup: STR_SPITTER
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
     listOrder: 9918
@@ -767,6 +802,7 @@
     points: 50
     lookup: STR_SPITTER
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
     listOrder: 9919
@@ -775,6 +811,7 @@
     points: 50
     lookup: STR_SPITTER
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
     listOrder: 9920
@@ -783,6 +820,7 @@
     points: 50
     lookup: STR_SPITTER
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
     listOrder: 9921
@@ -1300,6 +1338,7 @@
     points: 50
     lookup: STR_GAZER
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -1339,6 +1378,7 @@
     points: 50
     lookup: STR_CHTONITE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -1378,6 +1418,7 @@
     points: 50
     lookup: STR_REPTOID
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -1417,6 +1458,7 @@
     points: 50
     lookup: STR_WASPITE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -1456,6 +1498,7 @@
     points: 50
     lookup: STR_CEREBREAL
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -1495,6 +1538,7 @@
     points: 50
     lookup: STR_ANTHROPOD
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -1592,6 +1636,7 @@
     points: 50
     lookup: STR_CEREBREAL
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -1641,6 +1686,7 @@
     points: 50
     lookup: STR_CHTONITE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -1690,6 +1736,7 @@
     points: 50
     lookup: STR_REPTOID
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS
       - STR_ALIEN_ORIGINS
@@ -1739,6 +1786,7 @@
     points: 50
     lookup: STR_WASPITE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -1789,6 +1837,7 @@
     points: 50
     lookup: STR_GAZER
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -1879,6 +1928,11 @@
       - STR_ALIEN_SUPPLY
       - STR_ALIEN_FLYBY
   - name: STR_SECTOID_NAVIGATOR
+    cost: 192
+    points: 50
+    lookup: STR_SECTOID
+    needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS
       - STR_ALIEN_ORIGINS
@@ -1898,6 +1952,7 @@
     points: 50
     lookup: STR_CEREBREAL
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS
       - STR_ALIEN_ORIGINS
@@ -1918,6 +1973,7 @@
     points: 50
     lookup: STR_CHTONITE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS
       - STR_ALIEN_ORIGINS
@@ -1938,6 +1994,7 @@
     points: 50
     lookup: STR_REPTOID
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS
       - STR_ALIEN_ORIGINS
@@ -1958,6 +2015,7 @@
     points: 50
     lookup: STR_WASPITE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS
       - STR_ALIEN_ORIGINS
@@ -1978,6 +2036,7 @@
     points: 50
     lookup: STR_GAZER
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS
       - STR_ALIEN_ORIGINS
@@ -1997,6 +2056,7 @@
     points: 50
     lookup: STR_ANTHROPOD
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS
       - STR_ALIEN_ORIGINS
@@ -2004,6 +2064,8 @@
   - name: STR_GAZER_LEADER
     cost: 192
     points: 50
+    needItem: true
+    destroyItem: true
     lookup: STR_GAZER
     unlocks:
       - STR_LEADER_PLUS
@@ -2025,12 +2087,13 @@
       - STR_ALIEN_REPRODUCTION
       - STR_ALIEN_SURGERY
       - STR_ALIEN_CODES
-    needItem: true
     listOrder: 8624
   - name: STR_CEREBREAL_LEADER
     cost: 192
     points: 50
     lookup: STR_CEREBREAL
+    needItem: true
+    destroyItem: true
     unlocks:
       - STR_LEADER_PLUS
       - STR_PSIONICS_PREREQUISITE1
@@ -2052,12 +2115,13 @@
       - STR_ALIEN_REPRODUCTION
       - STR_ALIEN_SURGERY
       - STR_ALIEN_CODES
-    needItem: true
     listOrder: 8693
   - name: STR_CHTONITE_LEADER
     cost: 192
     points: 50
     lookup: STR_CHTONITE
+    needItem: true
+    destroyItem: true
     unlocks:
       - STR_LEADER_PLUS
       - STR_ALIEN_ORIGINS
@@ -2078,12 +2142,13 @@
       - STR_ALIEN_REPRODUCTION
       - STR_ALIEN_SURGERY
       - STR_ALIEN_CODES
-    needItem: true
     listOrder: 8683
   - name: STR_REPTOID_LEADER
     cost: 192
     points: 50
     lookup: STR_REPTOID
+    needItem: true
+    destroyItem: true
     unlocks:
       - STR_LEADER_PLUS
       - STR_ALIEN_ORIGINS
@@ -2104,12 +2169,13 @@
       - STR_ALIEN_REPRODUCTION
       - STR_ALIEN_SURGERY
       - STR_ALIEN_CODES
-    needItem: true
     listOrder: 8673
   - name: STR_WASPITE_LEADER
     cost: 192
     points: 50
     lookup: STR_WASPITE
+    needItem: true
+    destroyItem: true
     unlocks:
       - STR_LEADER_PLUS
       - STR_ALIEN_ORIGINS
@@ -2130,7 +2196,6 @@
       - STR_ALIEN_REPRODUCTION
       - STR_ALIEN_SURGERY
       - STR_ALIEN_CODES
-    needItem: true
     listOrder: 8614
   - name: STR_FLOATER_LEADER
     unlocks:
@@ -2194,6 +2259,7 @@
     points: 50
     lookup: STR_MUTON
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -2363,6 +2429,7 @@
     points: 50
     lookup: STR_WASPITE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_LEADER_PLUS
       - STR_COMMANDER_PLUS
@@ -2390,6 +2457,7 @@
     points: 50
     lookup: STR_GAZER
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_LEADER_PLUS
       - STR_COMMANDER_PLUS
@@ -2417,6 +2485,7 @@
     points: 50
     lookup: STR_REPTOID
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_LEADER_PLUS
       - STR_COMMANDER_PLUS
@@ -2444,6 +2513,7 @@
     points: 50
     lookup: STR_CEREBREAL
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_LEADER_PLUS
       - STR_COMMANDER_PLUS
@@ -2472,6 +2542,7 @@
     points: 50
     lookup: STR_CHTONITE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_LEADER_PLUS
       - STR_COMMANDER_PLUS
@@ -2530,6 +2601,7 @@
     points: 50
     lookup: STR_CEREBREAL
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -2540,6 +2612,7 @@
     points: 50
     lookup: STR_CHTONITE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -2549,6 +2622,7 @@
     points: 50
     lookup: STR_REPTOID
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -2558,6 +2632,7 @@
     points: 50
     lookup: STR_WASPITE
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_ORIGINS
       - STR_ALIEN_POWER_SYSTEMS
@@ -2567,6 +2642,7 @@
     points: 50
     lookup: STR_GAZER
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS
       - STR_ALIEN_ORIGINS
@@ -2576,6 +2652,7 @@
     points: 50
     lookup: STR_ANTHROPOD
     needItem: true
+    destroyItem: true
     unlocks:
       - STR_ALIEN_POWER_SYSTEMS
       - STR_ALIEN_ORIGINS
@@ -3078,6 +3155,7 @@
       - STR_CEREBREAL_MEDIC
       - STR_CEREBREAL_NAVIGATOR
       - STR_CEREBREAL_SOLDIER
+      - STR_MIB_PSI_OPS
   - name: STR_PLASMA_WEAPONS
     cost: 500
     points: 25
@@ -3306,6 +3384,20 @@
     dependencies:
       - STR_PLASMA_WEAPONS_CALIBRATION
     listOrder: 3751
+  - name: STR_PLASMA_SUB
+    cost: 600
+    points: 25
+    needItem: true
+    dependencies:
+      - STR_PLASMA_WEAPONS_CALIBRATION
+    listOrder: 2093
+  - name: STR_PLASMA_SUB_CLIP
+    cost: 400
+    points: 6
+    needItem: true
+    dependencies:
+      - STR_PLASMA_WEAPONS_CALIBRATION
+    listOrder: 2094
   - name: STR_PLASMA_BLASTER
     cost: 900
     points: 25

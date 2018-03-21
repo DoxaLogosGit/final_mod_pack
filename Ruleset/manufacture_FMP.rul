@@ -57,7 +57,7 @@
     time: 220
     cost: 8000
     requiredItems:
-      STR_ELERIUM_115: 3
+      STR_ELERIUM_115: 5
   - name: STR_PLASMA_PISTOL
     category: STR_WEAPON
     requires:
@@ -241,6 +241,19 @@
     producedItems:
       STR_ELERIUM_115: 2
     listOrder: 3805
+  - name: STR_BREAKDOWN_STR_PLASMA_SUB_CLIP
+    category: STR_BASIC_COMPONENTS
+    requires:
+      - STR_PLASMA_SUB_CLIP
+      - STR_ELERIUM_115
+    space: 2
+    time: 320
+    cost: 1300
+    requiredItems:
+      STR_PLASMA_SUB_CLIP: 1
+    producedItems:
+      STR_ELERIUM_115: 2
+    listOrder: 3808
   - name: STR_BREAKDOWN_STR_HEAVY_PLASMA_CLIP
     category: STR_BASIC_COMPONENTS
     requires:
@@ -340,15 +353,6 @@
     cost: 28000
     requiredItems:
       STR_ELERIUM_115: 8
-  - name: STR_BLASTER_BOMB
-    category: STR_MISSILES
-    requires:
-      - STR_BLASTER_BOMB
-    space: 3
-    time: 220
-    cost: 8000
-    requiredItems:
-      STR_ELERIUM_115: 5
   - name: STR_MIB_PERSONAL_ARMOR_ADAPTATION
     category: STR_MAINTENANCE
     requires:
@@ -1336,6 +1340,29 @@
     cost: 1500
     requiredItems:
       STR_ELERIUM_115: 2
+  - name: STR_PLASMA_SUB
+    category: STR_WEAPON
+    requires:
+      - STR_PLASMA_WEAPONS
+      - STR_PLASMA_SUB
+      - STR_PLASMA_SUB_CLIP
+    space: 4
+    time: 700
+    cost: 70000
+    requiredItems:
+      STR_ALIEN_ALLOYS: 1
+    listOrder: 2093
+  - name: STR_PLASMA_SUB_CLIP
+    category: STR_BATTERIES
+    requires:
+      - STR_PLASMA_WEAPONS
+      - STR_PLASMA_SUB_CLIP
+    space: 4
+    time: 70
+    cost: 2100
+    requiredItems:
+      STR_ELERIUM_115: 2
+    listOrder: 2094
   - name: STR_TOXIGUN
     category: STR_WEAPON
     listOrder: 2450

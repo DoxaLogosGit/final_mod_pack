@@ -103,7 +103,7 @@
       134: Resources/FinalModPack/Weapons_Compilation/Shotgun/Shotgun.gif
       135: Resources/FinalModPack/Weapons_Compilation/Shotgun/Shotgun_Shells.gif
       136: Resources/FinalModPack/Weapons_Compilation/Shotgun/Shotgun_Shells_1.gif
-      137: Resources/FinalModPack/Weapons_Compilation/EMace/bigob_emace.gif
+      137: Resources/FinalModPack/Weapons_Compilation/EMace/bigobs_EleriumMace.gif
       138: Resources/FinalModPack/FusionTorch/BigFusionTorch.gif
       139: Resources/FinalModPack/FusionTorch/BigFusionTorchPower.gif
       140: Resources/FinalModPack/Weapons_Compilation/Flamethrower/Flamethrower.gif
@@ -213,6 +213,10 @@
       250: Resources/FinalModPack/Misc_Items_Compilation/bigob_Heal.gif
       251: Resources/FinalModPack/Misc_Items_Compilation/bigob_Pain.gif
       252: Resources/FinalModPack/Misc_Items_Compilation/bigob_Stim.gif
+      253: Resources/FinalModPack/Alt_aliens/Sectoid_Commander/bigob_SECTOID_COMMANDER_CORPSE.gif
+      254: Resources/FinalModPack/AlienArmouryExpanded/bigob_PlasmaSub.gif
+      255: Resources/FinalModPack/AlienArmouryExpanded/bigob_PlasmaSubClip.gif
+      256: Resources/FinalModPack/men_in_black/bigob_MIB_PSI_OPS.gif
   - type: FLOOROB.PCK
     files:
       41: Resources/FinalModPack/GravArmors/PowerArmor/FloorCorpse.png
@@ -249,7 +253,7 @@
       103: Resources/FinalModPack/Weapons_Compilation/StunGrenade/floorob_StunGrenade.gif
       104: Resources/FinalModPack/Weapons_Compilation/DartRifle/floorob_DartRifle.gif
       105: Resources/FinalModPack/Weapons_Compilation/DartRifle/floorob_DartRifleClip.gif
-      106: Resources/FinalModPack/Weapons_Compilation/EMace/floorob_emace.gif
+      106: Resources/FinalModPack/Weapons_Compilation/EMace/floorob_EleriumMace.gif
       107: Resources/FinalModPack/FusionTorch/FloorFusionTorch.gif
       108: Resources/FinalModPack/FusionTorch/FloorFusionTorchPower.gif
       109: Resources/FinalModPack/AlienArmouryExpanded/floorob_Toxigun.gif
@@ -373,6 +377,8 @@
       229: Resources/FinalModPack/Races_Compilation/MutonRace/floorob_obliterator_2.gif
       230: Resources/FinalModPack/Races_Compilation/MutonRace/floorob_obliterator_3.gif
       231: Resources/FinalModPack/Races_Compilation/MutonRace/floorob_obliterator_4.gif
+      232: Resources/FinalModPack/AlienArmouryExpanded/floorob_PlasmaSub.gif
+      233: Resources/FinalModPack/men_in_black/floorob_MIB_PSI_OPS.gif
   - type: HANDOB.PCK
     height: 40
     width: 256
@@ -397,7 +403,7 @@
       248: Resources/FinalModPack/GaussWeaponry/HandOb_GaussPistol.png
       256: Resources/FinalModPack/GaussWeaponry/HandOb_HeavyGauss.png
       264: Resources/FinalModPack/Weapons_Compilation/DartRifle/HandOb_DartRifle.png
-      272: Resources/FinalModPack/Weapons_Compilation/EMace/HandOb_EMace.png
+      272: Resources/FinalModPack/Weapons_Compilation/EMace/handob_EleriumMace.png
       280: Resources/FinalModPack/FusionTorch/HandOb_FusionTorch.png
       288: Resources/FinalModPack/AlienArmouryExpanded/handob_Aliensniperrifle.png
       296: Resources/FinalModPack/AlienArmouryExpanded/handob_Plasmadestroyer.png
@@ -455,6 +461,7 @@
       712: Resources/FinalModPack/Weapons_Compilation/PlasmaBlades/handob_PlasmaBlade.png
       720: Resources/FinalModPack/Weapons_Compilation/PlasmaBlades/handob_PlasmaSword.png
       728: Resources/FinalModPack/Weapons_Compilation/ClassicWeapons/handOb_Dynamite.png
+      736: Resources/FinalModPack/AlienArmouryExpanded/handob_PlasmaSub.png
   - type: HIT.PCK
     height: 40
     width: 128
@@ -476,20 +483,21 @@
       66: Resources/FinalModPack/AlienArmouryExpanded/Bullets/toxic_hit.gif
       76: Resources/FinalModPack/Races_Compilation/CerebrealRace/HitAnimation.gif
       86: Resources/FinalModPack/AlienArmouryExpanded/Bullets/bluelaser_hit.gif
+      96: Resources/FinalModPack/GaussWeaponry/Railgun_hit.gif
   - type: BASEBITS.PCK
     files:
-      55: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Firestorm_base2.gif
-      56: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Raven_base.gif
-      57: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Tormentor_base.gif
-      58: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Sentinel_base.gif
-      59: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Thunder_base.gif
+      55: Resources/FinalModPack/Vessels/Basebits/Firestorm_base2.gif
+      56: Resources/FinalModPack/Vessels/Basebits/Raven_base.gif
+      57: Resources/FinalModPack/Vessels/Basebits/Tormentor_base.gif
+      58: Resources/FinalModPack/Vessels/Basebits/Sentinel_base.gif
+      59: Resources/FinalModPack/Vessels/Basebits/Thunder_base.gif
       60: Resources/FinalModPack/GaussWeaponry/Basebits/gausscraft.gif
-      61: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Dropship_base.gif
+      61: Resources/FinalModPack/Vessels/Basebits/Dropship_base.gif
       62: Resources/FinalModPack/GaussWeaponry/Basebits/railcraft.gif
-      63: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Skymarshall_base.gif
-      64: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/AWACS_base.gif
-      76: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Hawkeye_base.gif
-      77: Resources/FinalModPack/FMP_addon_ExtraVessel/Basebits/Darkstar_base.gif
+      63: Resources/FinalModPack/Vessels/Basebits/Skymarshall_base.gif
+      64: Resources/FinalModPack/Vessels/Basebits/AWACS_base.gif
+      76: Resources/FinalModPack/Vessels/Basebits/Hawkeye_base.gif
+      77: Resources/FinalModPack/Vessels/Basebits/Darkstar_base.gif
       300: Resources/FinalModPack/GaussWeaponry/Basebits/Gauss_Defenses.png
       301: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_1.png
       302: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_2.png
@@ -507,30 +515,34 @@
       314: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_2.png
       315: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_3.png
       316: Resources/FinalModPack/ImprovedLivingQuarters/LQ2_b_4.png
+      317: Resources/FinalModPack/Corridor/Corridor.png
+      831: Resources/FinalModPack/Vessels/Basebits/Skyraider_base.gif
   - type: INTICON.PCK
     files:
       17: Resources/FinalModPack/GaussWeaponry/Inticon/gausscraft.gif
       19: Resources/FinalModPack/GaussWeaponry/Inticon/railcraft.gif
-      22: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Firestorm_minimized.gif
-      23: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Raven_minimised.gif
-      24: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Tormentor_minimised.gif
-      25: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Sentinel_minimized.gif
-      26: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Thunder_minimised.gif
-      28: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Dropship_minimised.gif
-      30: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Skymarshall_minimized.gif
-      31: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/AWACS_minimised.gif
-      33: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Firestorm_dogfight.gif
-      34: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Raven_dogfight.gif
-      35: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Tormentor_dogfight.gif
-      36: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Sentinel_dogfight.gif
-      37: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Thunder_dogfight.gif
-      39: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Dropship_dogfight.gif
-      41: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Skymarshall_dogfight.gif
-      42: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/AWACS_dogfight.gif
-      43: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Hawkeye_minimised.gif
-      44: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Darkstar_minimised.gif
-      54: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Hawkeye_dogfight.gif
-      55: Resources/FinalModPack/FMP_addon_ExtraVessel/Inticon/Darkstar_dogfight.gif
+      22: Resources/FinalModPack/Vessels/Inticon/Firestorm_minimized.gif
+      23: Resources/FinalModPack/Vessels/Inticon/Raven_minimised.gif
+      24: Resources/FinalModPack/Vessels/Inticon/Tormentor_minimised.gif
+      25: Resources/FinalModPack/Vessels/Inticon/Sentinel_minimized.gif
+      26: Resources/FinalModPack/Vessels/Inticon/Thunder_minimised.gif
+      28: Resources/FinalModPack/Vessels/Inticon/Dropship_minimised.gif
+      30: Resources/FinalModPack/Vessels/Inticon/Skymarshall_minimized.gif
+      31: Resources/FinalModPack/Vessels/Inticon/AWACS_minimised.gif
+      33: Resources/FinalModPack/Vessels/Inticon/Firestorm_dogfight.gif
+      34: Resources/FinalModPack/Vessels/Inticon/Raven_dogfight.gif
+      35: Resources/FinalModPack/Vessels/Inticon/Tormentor_dogfight.gif
+      36: Resources/FinalModPack/Vessels/Inticon/Sentinel_dogfight.gif
+      37: Resources/FinalModPack/Vessels/Inticon/Thunder_dogfight.gif
+      39: Resources/FinalModPack/Vessels/Inticon/Dropship_dogfight.gif
+      41: Resources/FinalModPack/Vessels/Inticon/Skymarshall_dogfight.gif
+      42: Resources/FinalModPack/Vessels/Inticon/AWACS_dogfight.gif
+      43: Resources/FinalModPack/Vessels/Inticon/Hawkeye_minimised.gif
+      44: Resources/FinalModPack/Vessels/Inticon/Darkstar_minimised.gif
+      54: Resources/FinalModPack/Vessels/Inticon/Hawkeye_dogfight.gif
+      55: Resources/FinalModPack/Vessels/Inticon/Darkstar_dogfight.gif
+      798: Resources/FinalModPack/Vessels/Inticon/Skyraider_minimised.gif
+      809: Resources/FinalModPack/Vessels/Inticon/Skyraider_dogfight.gif
   - type: OBLITERATOR.PCK
     subX: 32
     subY: 40
@@ -1156,7 +1168,7 @@
     width: 320
     height: 200
     files:
-      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Firestorm_ufopedia.gif
+      0: Resources/FinalModPack/Vessels/Ufopedia/Firestorm_ufopedia.gif
   - type: ALLOY_CANNON
     singleImage: true
     width: 320
@@ -1180,25 +1192,25 @@
     width: 320
     height: 200
     files:
-      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Raven_ufopedia.gif
+      0: Resources/FinalModPack/Vessels/Ufopedia/Raven_ufopedia.gif
   - type: SENTINEL_BIG
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Sentinel_ufopedia.gif
+      0: Resources/FinalModPack/Vessels/Ufopedia/Sentinel_ufopedia.gif
   - type: UFOTHUNDER
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Thunder_ufopedia.gif
+      0: Resources/FinalModPack/Vessels/Ufopedia/Thunder_ufopedia.gif
   - type: UP005.SPK
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Tormentor_ufopedia.gif
+      0: Resources/FinalModPack/Vessels/Ufopedia/Tormentor_ufopedia.gif
   - type: ALLOYAMMO.SPK
     singleImage: true
     width: 320
@@ -1283,6 +1295,12 @@
     height: 160
     files:
       0: Resources/FinalModPack/UfopediaTechPics/alienneuropsychology.png
+  - type: SKYRAIDER.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/Vessels/Ufopedia/Skyraider_ufopedia.png
   - type: InterceptionExcavator
     singleImage: true
     width: 160
@@ -1740,6 +1758,17 @@
     singleImage: true
     files:
       0: Resources/FinalModPack/men_in_black/inventory_MIB5.gif
+  - type: MIB_PSI_OPS.PCK
+    width: 512
+    height: 720
+    subX: 32
+    subY: 40
+    files:
+      0: Resources/FinalModPack/men_in_black/MIB_PSI_OPS.png
+  - type: inventory_MIB_PSI_OPS
+    singleImage: true
+    files:
+      0: Resources/FinalModPack/men_in_black/inventory_MIB_PSI_OPS.gif
   - type: MALE_CIVILIAN2.PCK
     width: 512
     height: 720
@@ -1821,25 +1850,25 @@
     width: 320
     height: 200
     files:
-      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/HAWKEYE_ufopedia.png
+      0: Resources/FinalModPack/Vessels/Ufopedia/HAWKEYE_ufopedia.png
   - type: AWACS_BIG
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/AWACS_ufopedia.png
+      0: Resources/FinalModPack/Vessels/Ufopedia/AWACS_ufopedia.png
   - type: DARKSTAR_BIG
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/DARKSTAR_ufopedia.png
+      0: Resources/FinalModPack/Vessels/Ufopedia/DARKSTAR_ufopedia.png
   - type: DROPSHIP.SPK
     singleImage: true
     width: 320
     height: 200
     files:
-      0: Resources/FinalModPack/FMP_addon_ExtraVessel/Ufopedia/Dropship.png
+      0: Resources/FinalModPack/Vessels/Ufopedia/Dropship.png
   - type: STORMLANCE.SPK
     singleImage: true
     width: 320
@@ -2186,3 +2215,63 @@
     height: 200
     files:
       0: Resources/FinalModPack/Medals/MEDAL_PLACEHOLDER.png  
+  - type: UFOPEDIA_IMG_PISTOLS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/pistols.png
+  - type: UFOPEDIA_IMG_SMGS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/smgs.png
+  - type: UFOPEDIA_IMG_RIFLES
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/rifles.png
+  - type: UFOPEDIA_IMG_MACHINE_GUNS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/machineguns.png
+  - type: UFOPEDIA_IMG_SNIPER_RIFLES
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/snipperrifles.png
+  - type: UFOPEDIA_IMG_SHOTGUNS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/shotguns.png
+  - type: UFOPEDIA_IMG_MELEE_WEAPONS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/meleeweapons.png
+  - type: UFOPEDIA_IMG_CANNONS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/cannons.png
+  - type: UFOPEDIA_IMG_LAUNCHERS
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/launchers.png
+  - type: UFOPEDIA_IMG_INCENDIARIES
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/FinalModPack/UfopediaTechPics/incendiaries.png

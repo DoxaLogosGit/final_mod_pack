@@ -607,6 +607,13 @@
     section: STR_ALIEN_RESEARCH_UC
     text: STR_LASER_WEAPONS_UFOPEDIA
     listOrder: 11024
+  - id: STR_ADVANCED_LASER_WEAPONS
+    requires:
+      - STR_ADVANCED_LASER_WEAPONS
+    type_id: 8
+    section: STR_ALIEN_RESEARCH_UC
+    text: STR_ADVANCED_LASER_WEAPONS_UFOPEDIA
+    listOrder: 11025
   - id: STR_GAUSS_WEAPONS
     requires:
       - STR_GAUSS_WEAPONS
@@ -1356,6 +1363,22 @@
       width: 140
       height: 60
     image_id: UFOIMAGE
+  - id: STR_SKYRAIDER
+    type_id: 1
+    section: STR_XCOM_CRAFT_ARMAMENT
+    image_id: SKYRAIDER.SPK
+    rect_stats:
+      x: 210
+      y: 140
+      width: 160
+      height: 60
+    rect_text:
+      x: 5
+      y: 140
+      width: 140
+      height: 160
+    text: STR_SKYRAIDER_UFOPEDIA
+    listOrder: 140
   - id: STR_ALLOY_SKYRANGER
     type_id: 1
     section: STR_XCOM_CRAFT_ARMAMENT
@@ -1509,6 +1532,20 @@
       - STR_PLASMA_CASTER_CLIP
     text: STR_PLASMA_CASTER_CLIP_UFOPEDIA
     listOrder: 5151
+  - id: STR_PLASMA_SUB
+    type_id: 4
+    section: STR_ALIEN_ARTIFACTS
+    requires:
+      - STR_PLASMA_SUB
+    text: STR_PLASMA_SUB_UFOPEDIA
+    listOrder: 2093
+  - id: STR_PLASMA_SUB_CLIP
+    type_id: 4
+    section: STR_ALIEN_ARTIFACTS
+    requires:
+      - STR_PLASMA_SUB_CLIP
+    text: STR_PLASMA_SUB_CLIP_UFOPEDIA
+    listOrder: 2094
   - id: STR_PLASMA_SNIPER_RIFLE
     type_id: 4
     section: STR_ALIEN_ARTIFACTS
@@ -2231,3 +2268,78 @@
     text: STR_OBLITERATOR_AUTOPSY_UFOPEDIA
     text_width: 150
     listOrder: 9581
+  - id: STR_CORRIDOR
+    type_id: 6
+    section: STR_BASE_FACILITIES
+    text: STR_CORRIDOR_UFOPEDIA
+    listOrder: 7650
+  - id: STR_PISTOLS
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id: UFOPEDIA_IMG_PISTOLS
+    text: STR_PISTOLS_UFOPEDIA
+    text_width: 150
+    listOrder: 21551
+  - id: STR_SMGS
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id: UFOPEDIA_IMG_SMGS
+    text: STR_SMGS_UFOPEDIA
+    text_width: 150
+    listOrder: 21552
+  - id: STR_RIFLES
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id: UFOPEDIA_IMG_RIFLES
+    text: STR_RIFLES_UFOPEDIA
+    text_width: 150
+    listOrder: 21553
+  - id: STR_MACHINE_GUNS
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id: UFOPEDIA_IMG_MACHINE_GUNS
+    text: STR_MACHINE_GUNS_UFOPEDIA
+    text_width: 150
+    listOrder: 21557
+  - id: STR_SNIPER_RIFLES
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id: UFOPEDIA_IMG_SNIPER_RIFLES
+    text: STR_SNIPER_RIFLES_UFOPEDIA
+    text_width: 150
+    listOrder: 21554
+  - id: STR_SHOTGUNS
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id: UFOPEDIA_IMG_SHOTGUNS
+    text: STR_SHOTGUNS_UFOPEDIA
+    text_width: 150
+    listOrder: 21555
+  - id: STR_MELEE
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id: UFOPEDIA_IMG_MELEE_WEAPONS
+    text: STR_MELEE_UFOPEDIA
+    text_width: 150
+    listOrder: 21550
+  - id: STR_CANNONS
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id: UFOPEDIA_IMG_CANNONS
+    text: STR_CANNONS_UFOPEDIA
+    text_width: 150
+    listOrder: 21556
+  - id: STR_LAUNCHERS
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id: UFOPEDIA_IMG_LAUNCHERS
+    text: STR_LAUNCHERS_UFOPEDIA
+    text_width: 150
+    listOrder: 21558
+  - id: STR_INCENDIARIES
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id: UFOPEDIA_IMG_INCENDIARIES
+    text: STR_INCENDIARIES_UFOPEDIA
+    text_width: 150
+    listOrder: 21559

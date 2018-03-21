@@ -279,7 +279,7 @@
     retaliation: false
     members:
       - STR_MIB_COMMANDER
-      - STR_MIB_LEADER
+      - STR_MIB_PSI_OPS
       - STR_MIB_STORMTROOPER
       - STR_MIB_MEDIC
       - STR_MIB_HEAVY_TROOPER

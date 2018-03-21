@@ -200,61 +200,31 @@
         - U_BITS
         - UFOL83
       mapBlocks:
-        - name: UFO_110
+        - name: MEDSCOUT01
           width: 10
           length: 10
-        - name: OX_UFO1
+        - name: MEDSCOUT02
           width: 10
           length: 10
-        - name: OX_UFO1B
+        - name: MEDSCOUT03
           width: 10
           length: 10
-        - name: OX_UFO1C
+        - name: MEDSCOUT04
           width: 10
           length: 10
-        - name: OX_UFO1D
+        - name: MEDSCOUT05
           width: 10
           length: 10
-        - name: OX_UFO1E
+        - name: MEDSCOUT06
           width: 10
           length: 10
-        - name: OX_UFO1F
+        - name: MEDSCOUT07
           width: 10
           length: 10
-        - name: OX_UFO1G
+        - name: MEDSCOUT08
           width: 10
           length: 10
-        - name: UFR_110
-          width: 10
-          length: 10
-        - name: UFO_110M
-          width: 10
-          length: 10
-        - name: UFR_110M
-          width: 10
-          length: 10
-        - name: UFO_110Z
-          width: 10
-          length: 10
-        - name: UFR_110Z
-          width: 10
-          length: 10
-        - name: UFO_110A
-          width: 10
-          length: 10
-        - name: UFR_110A
-          width: 10
-          length: 10
-        - name: UFO_110B
-          width: 10
-          length: 10
-        - name: UFR_110B
-          width: 10
-          length: 10
-        - name: UFO_110C
-          width: 10
-          length: 10
-        - name: UFR_110C
+        - name: MEDSCOUT09
           width: 10
           length: 10
   - type: STR_LARGE_SCOUT
@@ -277,115 +247,76 @@
         - U_BITS
         - UFOL83
       mapBlocks:
-        - name: UFO_120
+        - name: LARGSCOUT01
           width: 20
           length: 20
-        - name: OX_UFO2A
+        - name: LARGSCOUT02
           width: 20
           length: 20
-        - name: OX_UFO2B
+        - name: LARGSCOUT03
           width: 20
           length: 20
-        - name: OX_UFO2C
+        - name: LARGSCOUT04
           width: 20
           length: 20
-        - name: OX_UFO2D
+        - name: LARGSCOUT05
           width: 20
           length: 20
-        - name: OX_UFO2E
+        - name: LARGSCOUT06
           width: 20
           length: 20
-        - name: OX_UFO2F
+        - name: LARGSCOUT07
           width: 20
           length: 20
-        - name: OX_UFO2G
+        - name: LARGSCOUT08
           width: 20
           length: 20
-        - name: OX_UFO2H
+        - name: LARGSCOUT09
           width: 20
           length: 20
-        - name: OX_UFO2I
+        - name: LARGSCOUT10
           width: 20
           length: 20
-        - name: OX_UFO2J
+        - name: LARGSCOUT11
           width: 20
           length: 20
-        - name: OX_UFO2K
+        - name: LARGSCOUT12
           width: 20
           length: 20
-        - name: OX_UFO2L
+        - name: LARGSCOUT13
           width: 20
           length: 20
-        - name: UFR_120
+        - name: LARGSCOUT14
           width: 20
           length: 20
-        - name: UFS_120
+        - name: LARGSCOUT15
           width: 20
           length: 20
-        - name: UFO_120A
+        - name: LARGSCOUT16
           width: 20
           length: 20
-        - name: UFR_120A
+        - name: LARGSCOUT17
           width: 20
           length: 20
-        - name: UFO_120B
+        - name: LARGSCOUT18
           width: 20
           length: 20
-        - name: UFR_120B
+        - name: LARGSCOUT19
           width: 20
           length: 20
-        - name: UFO_120C
+        - name: LARGSCOUT20
           width: 20
           length: 20
-        - name: UFR_120C
+        - name: LARGSCOUT21
           width: 20
           length: 20
-        - name: UFO_120D
+        - name: LARGSCOUT22
           width: 20
           length: 20
-        - name: UFR_120D
+        - name: LARGSCOUT23
           width: 20
           length: 20
-        - name: UFO_120E
-          width: 20
-          length: 20
-        - name: UFR_120E
-          width: 20
-          length: 20
-        - name: UFO_120F
-          width: 20
-          length: 20
-        - name: UFR_120F
-          width: 20
-          length: 20
-        - name: UFO_120G
-          width: 20
-          length: 20
-        - name: UFR_120G
-          width: 20
-          length: 20
-        - name: UFO_120H
-          width: 20
-          length: 20
-        - name: UFR_120H
-          width: 20
-          length: 20
-        - name: UFO_120I
-          width: 20
-          length: 20
-        - name: UFR_120I
-          width: 20
-          length: 20
-        - name: UFO_120J
-          width: 20
-          length: 20
-        - name: UFR_120J
-          width: 20
-          length: 20
-        - name: UFO_120K
-          width: 20
-          length: 20
-        - name: UFR_120K
+        - name: LARGSCOUT24
           width: 20
           length: 20
   - type: STR_ABDUCTOR
@@ -409,34 +340,34 @@
         - U_BITS
         - UFOL83
       mapBlocks:
-        - name: OX_UFO4A
+        - name: ABDUCT00
           width: 20
           length: 20
-        - name: OX_UFO4B
+        - name: ABDUCT01
           width: 20
           length: 20
-        - name: OX_UFO4C
+        - name: ABDUCT02
           width: 20
           length: 20
-        - name: OX_UFO4D
+        - name: ABDUCT03
           width: 20
           length: 20
-        - name: OX_UFO4E
+        - name: ABDUCT04
           width: 20
           length: 20
-        - name: OX_UFO4F
+        - name: ABDUCT05
           width: 20
           length: 20
-        - name: OX_UFO4G
+        - name: ABDUCT06
           width: 20
           length: 20
-        - name: OX_UFO4H
+        - name: ABDUCT07
           width: 20
           length: 20
-        - name: OX_UFO4I
+        - name: ABDUCT08
           width: 20
           length: 20
-        - name: OX_UFO4J
+        - name: ABDUCT09
           width: 20
           length: 20
   - type: STR_HARVESTER
@@ -461,82 +392,76 @@
         - U_DISEC3
         - UFOL83
       mapBlocks:
-        - name: UFO_130
+        - name: HARVES00
           width: 20
           length: 20
-        - name: UFR_130
+        - name: HARVES01
           width: 20
           length: 20
-        - name: UFO_130Z
+        - name: HARVES02
           width: 20
           length: 20
-        - name: UFR_130Z
+        - name: HARVES03
           width: 20
           length: 20
-        - name: UFO_130A
+        - name: HARVES04
           width: 20
           length: 20
-        - name: UFR_130A
+        - name: HARVES05
           width: 20
           length: 20
-        - name: UFO_130B
+        - name: HARVES06
           width: 20
           length: 20
-        - name: UFR_130B
+        - name: HARVES07
           width: 20
           length: 20
-        - name: UFO_130C
+        - name: HARVES08
           width: 20
           length: 20
-        - name: UFR_130C
+        - name: HARVES09
           width: 20
           length: 20
-        - name: UFO_130D
+        - name: HARVES10
           width: 20
           length: 20
-        - name: UFR_130D
+        - name: HARVES11
           width: 20
           length: 20
-        - name: UFO_130E
+        - name: HARVES12
           width: 20
           length: 20
-        - name: UFR_130E
+        - name: HARVES13
           width: 20
           length: 20
-        - name: UFO_130F
+        - name: HARVES14
           width: 20
           length: 20
-        - name: UFR_130F
+        - name: HARVES15
           width: 20
           length: 20
-        - name: UFO_130G
+        - name: HARVES16
           width: 20
           length: 20
-        - name: UFR_130G
+        - name: HARVES17
           width: 20
           length: 20
-        - name: UFO_130H
+        - name: HARVES18
           width: 20
           length: 20
-        - name: UFR_130H
+        - name: HARVES19
           width: 20
           length: 20
-        - name: UFO_130I
+        - name: HARVES20
           width: 20
           length: 20
-        - name: UFR_130I
+        - name: HARVES21
           width: 20
           length: 20
-        - name: UFO_130J
+        - name: HARVES22
           width: 20
           length: 20
-        - name: UFR_130J
-          width: 20
-          length: 20
-        - name: UFO_130K
-          width: 20
-          length: 20
-        - name: UFR_130K
+        - name: HARVES23
           width: 20
           length: 20
   - type: STR_SUPPLY_SHIP
@@ -560,16 +485,16 @@
         - U_BITS
         - UFOL83
       mapBlocks:
- #       - name: OX_UFO7A
+ #       - name: SUPPLY
  #         width: 30
  #         length: 20
- #       - name: OX_UFO7B
+ #       - name: SUPPLY0
  #         width: 20
  #         length: 30
-        - name: OX_UFO7C
+        - name: SUPPLY1
           width: 30
           length: 20
-        - name: OX_UFO7D
+        - name: SUPPLY2
           width: 20
           length: 30
 #^^^^^^You can change the supply ship loading door occurrence frequency here^^^^^ :p
@@ -597,28 +522,28 @@
         - U_BITS
         - UFOL83
       mapBlocks:
-        - name: OX_UFO5A
+        - name: TERROR00
           width: 30
           length: 20
-        - name: OX_UFO5B
+        - name: TERROR01
           width: 20
           length: 30
-        - name: OX_UFO5C
+        - name: TERROR02
           width: 30
           length: 20
-        - name: OX_UFO5D
+        - name: TERROR03
           width: 20
           length: 30
-        - name: OX_UFO5E
+        - name: TERROR04
           width: 30
           length: 20
-        - name: OX_UFO5F
+        - name: TERROR05
           width: 20
           length: 30
-        - name: OX_UFO5G
+        - name: TERROR06
           width: 30
           length: 20
-        - name: OX_UFO5H
+        - name: TERROR07
           width: 20
           length: 30
   - type: STR_BATTLESHIP
@@ -640,8 +565,9 @@
         - U_WALL02
         - U_PODS
         - U_BITS
+        - UFOL83
       mapBlocks:
-        - name: UFO_160
+        - name: UFO_BS0
           width: 30
           length: 30
         - name: UFO_BS1
@@ -657,6 +583,15 @@
           width: 30
           length: 30
         - name: UFO_BS5
+          width: 30
+          length: 30
+        - name: UFO_BS6
+          width: 30
+          length: 30
+        - name: UFO_BS7
+          width: 30
+          length: 30
+        - name: UFO_BS8
           width: 30
           length: 30
   - type: STR_EXCAVATOR
@@ -679,37 +614,37 @@
         - U_BITS
         - UFOL83
       mapBlocks:
-        - name: EXCAVTR1
+        - name: EXCAVTR00
           width: 20
           length: 20
-        - name: EXCAVTR2
+        - name: EXCAVTR01
           width: 20
           length: 20
-        - name: EXCAVTR3
+        - name: EXCAVTR02
           width: 20
           length: 20
-        - name: EXCAVTR4
+        - name: EXCAVTR03
           width: 20
           length: 20
-        - name: EXCAVTR5
+        - name: EXCAVTR04
           width: 20
           length: 20
-        - name: EXCAVTR6
+        - name: EXCAVTR05
           width: 20
           length: 20
-        - name: EXCAVTR7
+        - name: EXCAVTR06
           width: 20
           length: 20
-        - name: EXCAVTR8
+        - name: EXCAVTR07
           width: 20
           length: 20
-        - name: EXCAVTR9
+        - name: EXCAVTR08
+          width: 20
+          length: 20
+        - name: EXCAVTR09
           width: 20
           length: 20
         - name: EXCAVTR10
-          width: 20
-          length: 20
-        - name: EXCAVTR11
           width: 20
           length: 20
   - type: STR_SENTRY_SHIP
@@ -732,31 +667,34 @@
         - U_BITS
         - UFOL83
       mapBlocks:
-        - name: SENTRY1
+        - name: SENTRY00
           width: 20
           length: 20
-        - name: SENTRY2
+        - name: SENTRY01
           width: 20
           length: 20
-        - name: SENTRY3
+        - name: SENTRY02
           width: 20
           length: 20
-        - name: SENTRY4
+        - name: SENTRY03
           width: 20
           length: 20
-        - name: SENTRY5
+        - name: SENTRY04
           width: 20
           length: 20
-        - name: SENTRY6
+        - name: SENTRY05
           width: 20
           length: 20
-        - name: SENTRY7
+        - name: SENTRY06
           width: 20
           length: 20
-        - name: SENTRY8
+        - name: SENTRY07
           width: 20
           length: 20
-        - name: SENTRY9
+        - name: SENTRY08
+          width: 20
+          length: 20
+        - name: SENTRY09
           width: 20
           length: 20
         - name: SENTRY10
@@ -769,9 +707,6 @@
           width: 20
           length: 20
         - name: SENTRY13
-          width: 20
-          length: 20
-        - name: SENTRY14
           width: 20
           length: 20
   - type: STR_FIGHTER_SHIP
@@ -794,31 +729,31 @@
         - U_BITS
         - UFOL83
       mapBlocks:
-        - name: FIGHTER1
+        - name: FIGHTER00
           width: 20
           length: 20
-        - name: FIGHTER2
+        - name: FIGHTER01
           width: 20
           length: 20
-        - name: FIGHTER3
+        - name: FIGHTER02
           width: 20
           length: 20
-        - name: FIGHTER4
+        - name: FIGHTER03
           width: 20
           length: 20
-        - name: FIGHTER5
+        - name: FIGHTER04
           width: 20
           length: 20
-        - name: FIGHTER6
+        - name: FIGHTER05
           width: 20
           length: 20
-        - name: FIGHTER7
+        - name: FIGHTER06
           width: 20
           length: 20
-        - name: FIGHTER8
+        - name: FIGHTER07
           width: 20
           length: 20
-        - name: FIGHTER9
+        - name: FIGHTER08
           width: 20
           length: 20
   - type: STR_LAB_SHIP
@@ -968,3 +903,22 @@
         - name: MBASE01
           width: 30
           length: 30
+  - type: STR_DRAGONFLY_DARK
+    size: STR_SMALL
+    modSprite: interception_jammed
+    damageMax: 50
+    speedMax: 560
+    accel: 1
+    power: 20
+    range: 10
+    score: 100
+    reload: 4
+    battlescapeTerrainData:
+      name: DRAGONFLY_DARK
+      mapDataSets:
+        - BLANKS
+        - DRAGONFLY_DARK
+      mapBlocks:
+        - name: DRAGONFLY_DARK
+          width: 10
+          length: 20
