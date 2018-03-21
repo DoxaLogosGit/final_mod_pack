@@ -1,4 +1,4 @@
-THE FINAL MOD PACK v1.9.1b
+THE FINAL MOD PACK v1.9.8
 ----------------------------
 
 by Open X-Com community
@@ -10,7 +10,7 @@ Collected by: *Human Ktulu* and *Solarius Scorch*
 FMP is a mod for the video game [OpenXCom](http://www.openxcom.org) which is a opensource clone of XCOM. To play OpenXCom, you must own a copy of XCOM which 
 you can get from [Steam](http://store.steampowered.com)  or [GOG](http://www.gog.com).
 
-**WARNING: Requires nightly build version openxcom_git_master_2015_07_28_1435 or later! Get it from [here](http://openxcom.org/git-builds/.)**
+**WARNING: Requires nightly build version 2016-05-27 or later! Get it from [here](http://openxcom.org/git-builds/.)**
 
 #### WHAT DOES THIS MOD DO?
 It adds lots of new content: alien races, missions, weapons, maps, you name it. And everything was made by our community members.
@@ -28,7 +28,7 @@ could cause potential licensing conflicts that we don't know how to resolve yet.
 compatibility.  For now, mostly the text files for rulesets and metadata are committed to the repo for collaboration.
 
 #### HOW DO I GET THE WHOLE MOD, SINCE IT'S NOT ALL ON GITHUB?
-You get it from the OpenXcom mod site located [here](http://www.openxcom.com/mod/final-mod-pack)
+You get it from the OpenXcom forums site located [here](https://openxcom.org/forum/index.php/topic,2027.0.html)
 
 ### WHAT LICENSE IS FMP UNDER?
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
@@ -75,6 +75,23 @@ Currently, the fully supported languages are British English, US English and Pol
 Yeah, a better readme. :P Certainly more language versions, if they come to us. And of course we will continue with upgrading and expanding the mod, since our community is tremendously talented!
 
 ## CHANGELOG:
+- *1.9.8*: Updated to the latest nightly build. Fixed Snubnose Pistol (was coded as two-handed). Fixed Elerium Mace. Desert terrain fix. Battleship fix.
+- *1.9.7*: Added MiB Psi-Ops. Commendations fix (by Kjotleik).
+- *1.9.6c*: Fixed faulty base map.
+- *1.9.6b*: Fixed alien base spawning. Fixed hair/skin colours.
+- *1.9.6*: Added Plasma Sub. Some new Polar maps. Added one Alien Base map. Fixed a bug with Alien Base terrain generation. Fixed Supply Ship maps (by Hellrazor). Additional translations by Kammerer and F.E.K.
+- *1.9.5b*: Fixed missing Desert maps.
+- *1.9.5*: Added Skyraider (is now starting craft). Added Dragonfly for the Men in Black. Added new city blocks by Civilian. Added new Desert blocks. Gauss Pistol fires faster. Smaller Rail clips. Fixed the Ufopaedia entry for Advanced Laser Weapons. Fixed a small error in the XBASS_09 map. Fixed a small error in the DAWNURBAN12 map. Cleared some problems with Men in Black corpses. Added Hungarian translation, by F.E.K. Two new mapblocks for Commercial terrain. Added new soldier nationalities and names.
+- *1.9.4a*: Fixed Elerium Mace graphics. Fixed a missing research for Obliterator.
+- *1.9.4*: Fixed SOLFOREST14 map (by Dioxine). Added Alien Subrifle. New Magnum sprite (by Yrizoud). Fixed some missing EN-US strings. Better Hybrid face, by Civilian.
+- *1.9.3c*: Shotgun rebalance, to make it less accuracate on longer distances. Fixed a critical bug with the Corridor facility crashing the game.
+- *1.9.3b*: New sprite for Sectoid Commander corpse (by Ivan Dogovich). Fixed some aliens not disappearing after research.
+- *1.9.3a*: Fixed Obliterators not appearing in missions. Fixed descriptions on basic sniper rifles. New railgun hit animation (by pWWWa).
+- *1.9.3*: Implemented Hellrazor's darkened (non-transparent) ship maps. Small update of rulesets to match the newest nightly.
+- *1.9.2*: Added Corridor facility.
+- *1.9.1e*: Fixed a critical bug with the Manufacture ruleset. Oops.
+- *1.9.1d*: Fixed a crash on some Forest terrains.
+- *1.9.1c*: Skymarshall is now actually made from alloys (credits to Xtendo-com for doing most of the work). 8 new Farm mapblocks, by Civilian. Fixed a bug with Blaster Bomb production.
 - *1.9.1b*: Updated to work with nightlies past 04/09/2016
 - *1.9.1*: Gave Assault Rifle a much faster aim, but slightly less accurate. Fixed LMG clip. Fixed some advanced craft appearing where they shouldn't. New Battleship variants by Cooper. New spites for the Assault Laser, more in line with other advanced lasers. Mutons sometimes get rocket hovertanks now, deal with it. Fixed Hovertank/Launcher appearing in the Ufopedia too soon. Fixed alien inventory doll issues.
 - *1.9*: New Cerebreal sprites. New Salamandron corpse floorob. New sprites for Chtonites too, since I'm getting rid of all TFTD sprites (Chtonite corpse made by Bloax, cheers). Chtonite terror units are Silacoids now, since I never really liked Tunluns and Silacoids fit this race perfectly. Personal Armour takes longer to build and is more expensive. Basescape palette fixes. Advanced X-Com craft repair is faster. New Battleship maps, by Cooper. Streamlined Farm terrain. Fixed one Forest Mountain map block (mountain cave with impassable entrance). Light Machine Gun Clip size increased from 30 to 40. Changed how Tank/Minigun ammo is handled.
